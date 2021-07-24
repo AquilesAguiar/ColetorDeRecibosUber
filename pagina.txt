@@ -1,0 +1,1287 @@
+<html>
+ <head>
+  <script async="" nonce="" src="https://www.google.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=AW-856613572&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-9346212&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-8617315&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-8098912&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-4925147&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-5731039&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-8183467&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-5154911&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=UA-7157694-35&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" nonce="" src="https://www.googletagmanager.com/gtag/js?id=DC-5525825&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_1492" src="//static.hotjar.com/c/hotjar-960703.js?sv=6" type="text/javascript">
+  </script>
+  <script async="" src="//cdn3.optimizely.com/js/geo2.js" type="text/javascript">
+  </script>
+  <meta charset="utf-8"/>
+  <title>
+   Minhas viagens – Usuários da Uber
+  </title>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-main-89922293f4447ef7ab1e.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-common-e1189b0714f6c0156f35.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-fusion-6cae88997c10ba0a3db4.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-react-6e05fe4c6e8fd82177f4.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-0-2c14eae6acd43c22a65b.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-8-d99f56d1c5dcc627a5ba.js" nonce="" rel="preload"/>
+  <link as="script" crossorigin="anonymous" href="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-runtime-49621cb897c4e8cbe47a.js" nonce="" rel="preload"/>
+  <script async="" nonce="" src="https://www.google.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_1358" src="https://www.googletagmanager.com/gtag/js?id=AW-975102964" type="text/javascript">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script nonce="">
+   window.performance && window.performance.mark && window.performance.mark('firstRenderStart');__FUSION_ASSET_PATH__ = "https://d3i4yxtzktqr9n.cloudfront.net/riders-web/";__NONCE__ = "0cd3ad62-9b8e-4fda-beb9-7ec488a5a38d"
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-main-89922293f4447ef7ab1e.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-common-e1189b0714f6c0156f35.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-fusion-6cae88997c10ba0a3db4.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-vendor-react-6e05fe4c6e8fd82177f4.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-0-2c14eae6acd43c22a65b.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-8-d99f56d1c5dcc627a5ba.js">
+  </script>
+  <script crossorigin="anonymous" defer="" nonce="" src="https://d3i4yxtzktqr9n.cloudfront.net/riders-web/client-runtime-49621cb897c4e8cbe47a.js">
+  </script>
+  <script nonce="">
+   const messageCounts = {};
+              onerror = function(m, s, l, c, e) {
+                var _e = e || {};
+                messageCounts[m] = (messageCounts[m] || 0) + 1;
+                if (_e.__handled || messageCounts[m] > 3) return;
+                var error = {};
+                Object.getOwnPropertyNames(_e).forEach(function(key) {
+                  error[key] = e[key];
+                });
+                var x = new XMLHttpRequest();
+                x.open('POST', '/_errors');
+                x.setRequestHeader('Content-Type', 'application/json');
+                x.send(
+                  JSON.stringify({
+                    message: m,
+                    source: s,
+                    line: l,
+                    col: c,
+                    error: error,
+                  })
+                );
+                _e.__handled = true;
+              };
+  </script>
+  <script async="" nonce="" src="https://tags.tiqcdn.com/utag/uber/main/prod/utag.js">
+  </script>
+  <meta content="a4c7e948-b760-4fab-88dd-8fe25c9859d8" id="USER_UUID"/>
+  <script defer="" src="https://cdn.optimizely.com/public/745050198/s/riderdash.js">
+  </script>
+  <link href="{https://d3i4yxtzktqr9n.cloudfront.net/riders-web/17677bc2cadb48697a3d2da2efc65d8c.ico}" rel="shortcut icon" type="image/x-icon"/>
+  <link href="{https://d3i4yxtzktqr9n.cloudfront.net/riders-web/17677bc2cadb48697a3d2da2efc65d8c.ico}" rel="icon" type="image/x-icon"/>
+  <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, minimal-ui" name="viewport"/>
+  <style>
+   html,
+                body,
+                #root {
+                  height: 100%;
+                }
+                html {
+                  font-family: sans-serif;
+                  -ms-text-size-adjust: 100%;
+                  -webkit-text-size-adjust: 100%;
+                  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+                }
+                body {
+                  margin: 0;
+                }
+                button::-moz-focus-inner,
+                input::-moz-focus-inner {
+                  border: 0;
+                  padding: 0;
+                }
+                input::-webkit-inner-spin-button,
+                input::-webkit-outer-spin-button,
+                input::-webkit-search-cancel-button,
+                input::-webkit-search-decoration,
+                input::-webkit-search-results-button,
+                input::-webkit-search-results-decoration {
+                  display: none;
+                }
+  </style>
+  <style class="_styletron_hydrate_">
+   .ae{width:100vw}.af{height:100vh}.ag{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ah{-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column}.ai{-webkit-box-align:center;align-items:center}.aj{width:100%}.ak{box-sizing:border-box}.al{padding:0 16px 0 16px}.an{flex:1}.ao{margin-top:8px}.ap{overflow:auto}.aq{-webkit-overflow-scrolling:touch}.ar{max-width:1280px}.as{-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:row}.at{width:224px}.au{flex-shrink:0}.aw{position:fixed}.ax{background:#FFFFFF}.ay{list-style:none}.az{padding:8px 0 0 0}.b0{margin:0}.b1{width:inherit}.b2{margin-bottom:8px}.b3{font-weight:500}.b4{font-size:14px}.b5{letter-spacing:.4px}.b6{text-decoration:none}.b7{color:#000000}.b8{background-color:#FFFFFF}.b9{font-family:Regular}.ba:hover{cursor:pointer}.bb:hover{background:#EEF3FE}.bc{padding:16px 24px 16px 24px}.bd{background-color:#D4E2FC}.be{font-family:Medium}.bf{max-width:100%}.bi{z-index:10}.bl{height:60px}.bm{z-index:2}.bu{margin-left:64px}.bv{border-top:4px solid transparent}.bw{padding:0 24px 0 24px}.bx{line-height:56px}.by{text-transform:capitalize}.bz{cursor:pointer}.c0{padding:24px}.c1{color:#FFFFFF}.c2{padding:0px}.c3{font-size:16px!important}.c4{line-height:24px}.c5{position:relative}.c6{padding-left:16px}.c7{font-size:16px}.c8{-webkit-box-pack:row;justify-content:row}.c9{margin:4px 0 0 12px}.ca{fill:#000000}.cb{position:absolute}.cc{left:0}.cd{right:0}.ce{top:0}.cf{display:none}.cg{z-index:1}.ch{padding:12px 0 12px 12px}.ci{border-top:1px solid #EEEEEE}.cj{padding:20px 12px 20px 12px}.ck{font-size:36px}.cl{line-height:20px}.cm{height:72px}.cn{font-size:18px}.co{margin:0 20px 0 16px}.cp{fill:#4E545B}.cq{border-bottom:1px solid #EEEEEE}.cr{padding:16px 0 16px 0}.cs{max-width:584px}.ct{padding:0 16px 24px 16px}.cu{margin:auto}.cx{margin:0 auto}.cz{padding:16px}.d0{display:-webkit-inline-box;display:-moz-inline-box;display:-ms-inline-flexbox;display:-webkit-inline-flex;display:inline-flex}.d1{margin:0 8px 0 8px}.d2{border:1px solid #F0F0F0}.d3{margin-bottom:16px}.d5:hover{background-color:initial}.d6{margin-top:-4px}.d7{margin-right:16px}.d8{text-align:center}.d9{width:16px}.dd{padding-top:8px}.de{color:#276EF1}.df{display:inline-block}.dg{height:16px}.dh{margin-left:10px}.di{vertical-align:top}.dj{text-align:right}.dk{white-space:nowrap}.dl{padding-top:4px}.dm{width:24px}.dn{height:24px}.do{vertical-align:middle}.dp{padding-left:12px}.dq{padding:0 16px 16px 48px}.dr{margin-bottom:20px}.du{margin:4px 16px 0 0}.dv{border-radius:50%}.dw{width:9px}.dx{height:9px}.dy{border:2px solid #E2E2E2}.dz{margin-bottom:4px}.e0{background:#E2E2E2}.e1{width:2px}.e2{height:100%}.e3{margin:2px 0px 2px 6px}.e4{margin:0px}.e5{display:block}.e6{text-transform:upperCase}.e7{margin-top:4px}.ea{border-top:1px solid #F0F0F0}.eb{-webkit-box-pack:justify;justify-content:space-between}.ee{padding:0 0 0 24px}.ef{color:#77797A}.eg{color:#1E54B7}.eh{border:none}.ei{margin-left:8px}.ej{fill:currentColor}.ek{width:12px}.el{font-family:system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif}.em{font-weight:bold}.en{-webkit-box-pack:center;justify-content:center}.eo{border-top-right-radius:4px}.ep{border-bottom-right-radius:4px}.eq{border-top-left-radius:4px}.er{border-bottom-left-radius:4px}.es{outline:none}.et{-webkit-appearance:none}.eu{-webkit-transition-property:background;-moz-transition-property:background;transition-property:background}.ev{transition-duration:0.25s}.ew{transition-timing-function:cubic-bezier(.2, .8, .4, 1)}.ex:disabled{cursor:not-allowed}.ey:disabled{background-color:#F0F0F0}.ez:disabled{color:#B3B3B3}.f0{padding-bottom:8px}.f1{padding-right:16px}.f2{color:#174EB6}.f3{background-color:transparent}.f4:hover{background-color:#F7F7F7}.f5:focus{background-color:#F7F7F7}.f6:active{background-color:#E5E5E5}.f7{margin-left:0}.f8{margin-top:0}.f9{margin-right:0}.fa{margin-bottom:0}.fb{margin-left:12px}.fc{border:1px solid transparent}.fd:hover{background-color:#EDF3FE}.fe{color:#E54937}.ff{-webkit-box-pack:justify;justify-content:space-around}.fg{margin:20px}.fh{border-radius:40px}.fi{height:40px}.fj{width:80px}.fk{border:1px solid #EEEEEE}.fl{width:40px}.fm{pointer-events:none}.fn{cursor:disabled}.fo{fill:#E2E2E2}.fp{pointer-events:auto}.fq{fill:#1E54B7}.fr{transform:rotate(180deg)}.fs{width:220px}.ft{-ms-grid-row-align:center;align-self:center}.fu{width:275px}.fv{margin:16px 0 8px 0}.fw{font-size:12px}.fx{line-height:18px}.fy{color:#4E545B}.fz{border:0}.g0{background-color:#1E54B7}.g1{padding:12px 20px 12px 20px}.g2{outline:0}.g3:disabled{background-color:#EEEEEE}.g4:disabled{color:#FFFFFF}.g5{align-self:flex-start}.g6{margin-right:12px}
+  </style>
+  <style class="_styletron_hydrate_" media="(min-width: 800px)">
+   .bj{background:#000000}.bk{color:#FFFFFF}.bo{display:none}.bp{fill:#FFFFFF}.bq{margin-top:4px}.br{height:20px}.ds{max-height:90px}.e8{color:#77797A}
+  </style>
+  <style class="_styletron_hydrate_" media="(max-width: 960px)">
+   .av{display:none}.cy{max-width:1000px}
+  </style>
+  <style class="_styletron_hydrate_" media="(max-width: 799px)">
+   .am{padding:0}.bg{background:transparent}.bh{color:#FFFFFF}.bn{color:#000000}.bs{fill:#000000}.bt{display:none}.cv{max-width:unset}.cw{padding:0 0 24px 0}.d4{margin-bottom:6px}.da{font-family:Medium}.db{font-size:14px}.dc{line-height:20px}.dt{max-height:110px}.e9{color:#77797A}.ec{border-top:none}.ed{margin-top:0}
+  </style>
+  <style>
+   @font-face {font-family: "Regular"; font-display: fallback; src: url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/a829752af51129e08130f943eaf3e568.woff2") format("woff2")
+,url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/2c945e254be87b34b97c753ddf9eb744.woff") format("woff")
+;}
+@font-face {font-family: "MoveMedium"; font-display: fallback; src: url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/fcb52a268777aa859b5c53bc17630487.woff2") format("woff2")
+,url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/a2d761fb867329a576acd901b2657604.woff") format("woff")
+;}
+@font-face {font-family: "Medium"; font-display: fallback; src: url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/f2eaaf0bc08903f5915b809ee80b04c7.woff2") format("woff2")
+,url("https://d3i4yxtzktqr9n.cloudfront.net/riders-web/90012306e740f7bf0772b94a28cd9926.woff") format("woff")
+;}
+  </style>
+  <script async="" charset="utf-8" id="utag_uber.main_1637" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1637.js?utv=ut4.44.202106282108" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1387" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1387.js?utv=ut4.44.202105061718" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1480" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1480.js?utv=ut4.44.202106301630" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1492" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1492.js?utv=ut4.44.202104281854" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1491" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1491.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1506" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1506.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1507" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1507.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1508" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1508.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1509" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1509.js?utv=ut4.44.202107140706" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1533" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1533.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1545" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1545.js?utv=ut4.44.202106141633" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1555" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1555.js?utv=ut4.44.202102021646" type="text/javascript">
+  </script>
+  <script async="" charset="utf-8" id="utag_uber.main_1594" src="//tags.tiqcdn.com/utag/uber/main/prod/utag.1594.js?utv=ut4.44.202102021646" type="text/javascript">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975102964/?random=1627162922201&amp;cv=9&amp;fst=1627162922201&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975102964/?random=1627162922204&amp;cv=9&amp;fst=1627162922204&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dpage_view&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script async="" charset="utf-8" src="https://script.hotjar.com/modules.a6e08df3d112e629a598.js">
+  </script>
+  <style type="text/css">
+   iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}
+  </style>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975102964/?random=1627162922317&amp;cv=9&amp;fst=1627162922317&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dpage_view&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/856613572/?random=1627162922448&amp;cv=9&amp;fst=1627162922448&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;tiba=Minhas%20viagens%20%E2%80%93%20Usu%C3%A1rios%20da%20Uber&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/856613572/?random=1627162922450&amp;cv=9&amp;fst=1627162922450&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;tiba=Minhas%20viagens%20%E2%80%93%20Usu%C3%A1rios%20da%20Uber&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/856613572/?random=1627162922451&amp;cv=9&amp;fst=1627162922451&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Dpage_view&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;tiba=Minhas%20viagens%20%E2%80%93%20Usu%C3%A1rios%20da%20Uber&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975102964/?random=1627162922587&amp;cv=9&amp;fst=1627162922587&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Doptimize.callback&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;tiba=Minhas%20viagens%20%E2%80%93%20Usu%C3%A1rios%20da%20Uber&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script nonce="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/856613572/?random=1627162922588&amp;cv=9&amp;fst=1627162922588&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1600&amp;u_ah=860&amp;u_aw=1600&amp;u_cd=24&amp;u_his=3&amp;u_tz=-180&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7l1&amp;sendb=1&amp;ig=0&amp;data=event%3Doptimize.callback&amp;frm=0&amp;url=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ&amp;tiba=Minhas%20viagens%20%E2%80%93%20Usu%C3%A1rios%20da%20Uber&amp;hn=www.google.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+ </head>
+ <body>
+  <div id="root">
+   <div class="ae af ag ah">
+    <div class="ag ah ai aj ak al bg bh bi bj bk">
+     <div class="ar aj">
+      <div class="aj bl b9 ag as ai bm bk bn">
+       <div class="ai ag bo" data-identity="discovery">
+        <div>
+         <svg class="bp bq br bs" fill="none" height="18" viewbox="0 0 53 18" width="53" xmlns="http://www.w3.org/2000/svg">
+          <path clip-rule="evenodd" d="M2.65437 10.9212V0H0V11.0727C0 15.2441 2.90695 18 6.69915 18C8.54492 18 10.188 17.2921 11.3761 16.0531V17.6966H14.0055V0H11.3507V10.9212C11.3507 13.7275 9.45512 15.6236 7.00253 15.6236C4.52504 15.6236 2.65437 13.7779 2.65437 10.9212ZM16.1035 17.6966H18.6318V16.0785C19.7945 17.2667 21.4381 18 23.233 18C27.0252 18 30.0084 14.9914 30.0084 11.275C30.0084 7.5336 27.0252 4.52504 23.233 4.52504C21.4381 4.52504 19.82 5.25836 18.6572 6.44657V0H16.1035V17.6966ZM18.6063 11.2751C18.6063 8.77271 20.6036 6.80091 23.0557 6.80091C25.4828 6.80091 27.48 8.77271 27.48 11.2751C27.48 13.7531 25.4828 15.7499 23.0557 15.7499C20.5781 15.7499 18.6063 13.7531 18.6063 11.2751ZM31.0192 11.2501C31.0192 15.0927 34.0024 17.9746 37.8703 17.9746C40.2217 17.9746 42.1427 16.938 43.4322 15.2192L41.5867 13.8537C40.6258 15.143 39.3618 15.7498 37.8703 15.7498C35.6962 15.7498 33.952 14.1824 33.5978 12.0841H44.0895V11.2501C44.0895 7.40712 41.3591 4.55054 37.6431 4.55054C33.8758 4.55054 31.0192 7.60937 31.0192 11.2501ZM37.5923 6.77546C39.4884 6.77546 41.0811 8.0897 41.511 10.062H33.6487C34.1035 8.0897 35.6962 6.77546 37.5923 6.77546ZM52.0782 7.07866V4.70234H51.1932C49.7775 4.70234 48.7411 5.35943 48.109 6.39614V4.80342H45.5806V17.6966H48.1346V10.3652C48.1346 8.36799 49.3476 7.07866 51.0166 7.07866H52.0782Z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </div>
+       </div>
+       <div class="ai ag bt">
+        <a href="https://www.uber.com">
+         <svg class="bp bq br bs" fill="none" height="18" viewbox="0 0 53 18" width="53" xmlns="http://www.w3.org/2000/svg">
+          <path clip-rule="evenodd" d="M2.65437 10.9212V0H0V11.0727C0 15.2441 2.90695 18 6.69915 18C8.54492 18 10.188 17.2921 11.3761 16.0531V17.6966H14.0055V0H11.3507V10.9212C11.3507 13.7275 9.45512 15.6236 7.00253 15.6236C4.52504 15.6236 2.65437 13.7779 2.65437 10.9212ZM16.1035 17.6966H18.6318V16.0785C19.7945 17.2667 21.4381 18 23.233 18C27.0252 18 30.0084 14.9914 30.0084 11.275C30.0084 7.5336 27.0252 4.52504 23.233 4.52504C21.4381 4.52504 19.82 5.25836 18.6572 6.44657V0H16.1035V17.6966ZM18.6063 11.2751C18.6063 8.77271 20.6036 6.80091 23.0557 6.80091C25.4828 6.80091 27.48 8.77271 27.48 11.2751C27.48 13.7531 25.4828 15.7499 23.0557 15.7499C20.5781 15.7499 18.6063 13.7531 18.6063 11.2751ZM31.0192 11.2501C31.0192 15.0927 34.0024 17.9746 37.8703 17.9746C40.2217 17.9746 42.1427 16.938 43.4322 15.2192L41.5867 13.8537C40.6258 15.143 39.3618 15.7498 37.8703 15.7498C35.6962 15.7498 33.952 14.1824 33.5978 12.0841H44.0895V11.2501C44.0895 7.40712 41.3591 4.55054 37.6431 4.55054C33.8758 4.55054 31.0192 7.60937 31.0192 11.2501ZM37.5923 6.77546C39.4884 6.77546 41.0811 8.0897 41.511 10.062H33.6487C34.1035 8.0897 35.6962 6.77546 37.5923 6.77546ZM52.0782 7.07866V4.70234H51.1932C49.7775 4.70234 48.7411 5.35943 48.109 6.39614V4.80342H45.5806V17.6966H48.1346V10.3652C48.1346 8.36799 49.3476 7.07866 51.0166 7.07866H52.0782Z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </a>
+       </div>
+       <div class="bu ag">
+        <div data-identity="ride">
+         <div data-identity="ride-extended-menu">
+          <div class="bv bw bx by bz bt">
+           ride
+          </div>
+         </div>
+        </div>
+        <div data-identity="drive">
+         <div data-identity="drive-extended-menu">
+          <div class="bv bw bx by bz bt">
+           drive
+          </div>
+         </div>
+        </div>
+        <div data-identity="more">
+         <div data-identity="more-extended-menu">
+          <div class="bv bw bx by bz bt">
+           more
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="an">
+       </div>
+       <div class="bx c0 bv">
+        <a class="bt c1 c2 ag b9 c3 c4 b7 b5 b6 ba aj ai" href="https://help.uber.com/riders">
+         Ajuda
+        </a>
+       </div>
+       <div class="c5">
+        <div data-identity="user-name-desktop">
+         <div data-identity="user-name-desktop-extended-menu">
+          <div class="bv bw bx by bz bt">
+           Aquiles
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="c6 c7 by ai ag bz c8 bo" data-identity="user-name-mobile">
+        <div class="c9 bo">
+         <svg class="ca" fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+          <path clip-rule="evenodd" d="M11.6667 4.33317C11.6667 6.35821 10.025 7.99984 8 7.99984C5.97496 7.99984 4.33333 6.35821 4.33333 4.33317C4.33333 2.30813 5.97496 0.666504 8 0.666504C10.025 0.666504 11.6667 2.30813 11.6667 4.33317ZM2 13.3332C2 11.1332 3.8 9.33317 6 9.33317H10C12.2 9.33317 14 11.1332 14 13.3332V15.3332H2V13.3332Z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </div>
+       </div>
+      </div>
+      <div class="cb aj cc cd ce cf ax ap cg ch ak af ci" data-identity="user-menu">
+       <div>
+        <div class="c9 bo">
+         <svg fill="none" height="17" viewbox="0 0 13 13" width="13px">
+          <path d="M8.15619 6.49996L12.9118 1.7444C13.0294 1.62677 13.0294 1.43615 12.9118 1.31852L11.6815 0.0882198C11.5639 -0.0294066 11.3732 -0.0294066 11.2557 0.0882198L6.5 4.84378L1.74435 0.0882198C1.6268 -0.0294066 1.43609 -0.0294066 1.31854 0.0882198L0.0881649 1.31852C-0.0293883 1.43615 -0.0293883 1.62677 0.0881649 1.7444L4.84382 6.49996L0.0881649 11.2556C-0.0293883 11.3732 -0.0293883 11.5639 0.0881649 11.6815L1.31854 12.9118C1.43609 13.0294 1.6268 13.0294 1.74435 12.9118L6.5 8.15614L11.2557 12.9118C11.3732 13.0294 11.5639 13.0294 11.6815 12.9118L12.9118 11.6815C13.0294 11.5639 13.0294 11.3732 12.9118 11.2556L8.15619 6.49996Z" fill="black">
+          </path>
+         </svg>
+        </div>
+        <div class="cj b7 be ck cl">
+         Olá, Aquiles
+        </div>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="https://m.uber.com">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M20.8999 9L19.3999 4.40002C19.0999 3.60002 18.4 3 17.5 3H6.3999C5.4999 3 4.8 3.50002 4.5 4.40002L3 9H1V12H2V21H6V19H18V21H22V12H23V9H20.8999ZM5 14H9V16H5V14ZM15 16V14H19V16H15ZM7.1001 6H16.7998L18.1001 10H5.7998L7.1001 6Z">
+           </path>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Solicitar uma viagem
+          <!-- -->
+         </div>
+        </a>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="/trips">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M3 1V23L8.5 20L12 23L15.5 20L21 23V1H3ZM17 9H7V6H17V9Z">
+           </path>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Minhas viagens
+          <!-- -->
+         </div>
+        </a>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="https://wallet.uber.com">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <g transform="matrix( 1 0 0 1 1 11 )">
+            <path clip-rule="nonzero" d="M13.12 3L8.88 3L5.88 0L0 0L0 9L22 9L22 0L16.12 0L13.12 3Z" fill-rule="nonzero" opacity="1">
+            </path>
+           </g>
+           ,
+           <g transform="matrix( 1 0 0 1 1 4 )">
+            <path clip-rule="nonzero" d="M0 0L0 4L7.12 4L10.12 7L11.88 7L14.88 4L22 4L22 0L0 0Z" fill-rule="nonzero" opacity="1">
+            </path>
+           </g>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Wallet
+          <!-- -->
+         </div>
+        </a>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="/invite">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path clip-rule="evenodd" d="M21 6C21 6.7 20.9001 7.4 20.6001 8H23V11H1V8H3.3999C3.1999 7.4 3 6.7 3 6C3 3.2 5.2 1 8 1H8.5C9.9 1 11.1 1.49999 12 2.39999C12.9 1.49999 14.1 1 15.5 1H16C18.8 1 21 3.2 21 6ZM7.1001 8H10.5V5.10001C10.2 4.30001 9.4 3.79999 8.5 3.79999H8C6.8 3.79999 5.80005 4.8 5.80005 6C5.80005 6.9 6.3001 7.7 7.1001 8ZM13.5 8H16.8999C17.6999 7.7 18.2 6.9 18.2 6C18.2 4.8 17.2 3.79999 16 3.79999H15.5C14.6 3.79999 13.8 4.30001 13.5 5.10001V8ZM3 22V13H21V22H3Z" fill-rule="evenodd">
+           </path>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Viagens com desconto
+          <!-- -->
+         </div>
+        </a>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="/profile">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M23 13.5V10.5H19.8999C19.6999 9.4 19.3 8.4 18.7 7.5L20.8999 5.3L18.8 3.2L16.6001 5.39999C15.7001 4.79999 14.7001 4.4 13.6001 4.2V1H10.6001V4.10001C9.5001 4.30001 8.5001 4.7 7.6001 5.3L5.3999 3.10001L3.30005 5.2L5.5 7.39999C4.9 8.29999 4.50005 9.29999 4.30005 10.4H1.19995V13.4H4.30005C4.50005 14.5 4.9 15.5 5.5 16.4L3.30005 18.6L5.3999 20.7L7.6001 18.5C8.5001 19.1 9.5001 19.5 10.6001 19.7V22.8H13.6001V19.7C14.7001 19.5 15.7001 19.1 16.6001 18.5L18.8 20.7L20.8999 18.6L18.7 16.4C19.3 15.5 19.6999 14.5 19.8999 13.4H23V13.5ZM12 16C9.8 16 8 14.2 8 12C8 9.8 9.8 8 12 8C14.2 8 16 9.8 16 12C16 14.2 14.2 16 12 16Z">
+           </path>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Configurações de perfil
+          <!-- -->
+         </div>
+        </a>
+       </div>
+       <div class="cm ak">
+        <a class="ag b9 cn c4 b7 b5 b6 ba aj ai" href="/tax-profiles">
+         <div class="co ag">
+          <svg class="cp" fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M3 1V23H21V1H3ZM15 15H7V12H15V15ZM17 9H7V6H17V9Z">
+           </path>
+          </svg>
+         </div>
+         <div class="cq cr aj">
+          <!-- -->
+          Perfil tributário
+          <!-- -->
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="ag ah ai aj ak al am an ao ap aq">
+     <div class="ar aj ag as">
+      <div class="at au av" data-identity="sidebar">
+       <div class="aw">
+        <nav class="at ax">
+         <ul class="ay az b0 b1">
+          <li class="b2">
+           <a class="ag ai b3 b4 b5 b6 b7 b8 b9 ba bb bc" href="https://m.uber.com">
+            Solicitar uma viagem
+           </a>
+          </li>
+          <li class="b2">
+           <a aria-current="page" class="ag ai b3 b4 b5 b6 b7 bd be ba bb bc active" href="/trips">
+            Minhas viagens
+           </a>
+          </li>
+          <li class="b2">
+           <a class="ag ai b3 b4 b5 b6 b7 b8 b9 ba bb bc" href="https://wallet.uber.com">
+            Wallet
+           </a>
+          </li>
+          <li class="b2">
+           <a class="ag ai b3 b4 b5 b6 b7 b8 b9 ba bb bc" href="/invite">
+            Viagens com desconto
+           </a>
+          </li>
+          <li class="b2">
+           <a class="ag ai b3 b4 b5 b6 b7 b8 b9 ba bb bc" href="/profile">
+            Configurações de perfil
+           </a>
+          </li>
+          <li class="b2">
+           <a class="ag ai b3 b4 b5 b6 b7 b8 b9 ba bb bc" href="/tax-profiles">
+            Perfil tributário
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+      <div class="an bf">
+       <div class="ag as">
+        <div class="an">
+         <div class="cs ct cu cv cw">
+          <div class="ag ah aj cs cx cy">
+           <div class="c5 cz">
+            <div class="bz d0 as">
+             <svg height="16" viewbox="0 0 16 16" width="16">
+              <path d="M15.3334 2.66699H8.46669C8.06669 1.53366 6.93335 0.666992 5.66669 0.666992C4.40002 0.666992 3.26669 1.53366 2.86669 2.66699H0.666687V4.66699H2.86669C3.26669 5.80033 4.40002 6.66699 5.66669 6.66699C6.93335 6.66699 8.06669 5.80033 8.46669 4.66699H15.3334V2.66699ZM5.66669 5.00033C4.93335 5.00033 4.33335 4.40033 4.33335 3.66699C4.33335 2.93366 4.93335 2.33366 5.66669 2.33366C6.40002 2.33366 7.00002 2.93366 7.00002 3.66699C7.00002 4.40033 6.40002 5.00033 5.66669 5.00033ZM15.3334 11.3337H13.1334C12.7334 10.2003 11.6 9.33366 10.3334 9.33366C9.06669 9.33366 7.93335 10.2003 7.53335 11.3337H0.666687V13.3337H7.53335C7.93335 14.467 9.06669 15.3337 10.3334 15.3337C11.6 15.3337 12.7334 14.467 13.1334 13.3337H15.3334V11.3337ZM10.3334 13.667C9.60002 13.667 9.00002 13.067 9.00002 12.3337C9.00002 11.6003 9.60002 11.0003 10.3334 11.0003C11.0667 11.0003 11.6667 11.6003 11.6667 12.3337C11.6667 13.067 11.0667 13.667 10.3334 13.667Z" fill="#1E54B7">
+              </path>
+             </svg>
+             <h5 class="b9 c7 cl b7 d1">
+              Filtrar viagens
+             </h5>
+             <svg height="16px" viewbox="0 0 16 16" width="16px">
+              <path d="M8.6 11H8l5.4-5.4.7.7-5.4 5.5-.3.3L8 12 2.3 6.3l.7-.7L8.7 11">
+              </path>
+             </svg>
+            </div>
+           </div>
+           <div data-identity="trip-list">
+            <div class="d2 b9 d3 d4 d5" data-identity="trip-container" data-trip-expanded="true" data-trip-id="774a8047-67f2-4d5e-80c6-6eb5e334e016" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Minus
+                </title>
+                <path d="M23 10.5H1v3h22v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                23 July 2021, 4:13pm
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 10,94
+                <svg class="de df dg dh di d9" fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                 <title>
+                  Surge
+                 </title>
+                 <path clip-rule="evenodd" d="M11 1.5l-3.5 12h5L10 21.9l-8-4.4v-11l9-5zm.5 9L14 2.1l8 4.4v11l-9 5 3.5-12h-5z" fill="currentColor" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div data-identity="trip-info">
+              <div class="ag ah dq">
+               <div class="be b4 cl b7 dr">
+                Sua viagem no UberX
+                <!-- -->
+                <!-- -->
+                com Dirceu Jose
+               </div>
+               <div class="ag">
+                <div class="">
+                 <div class="ag d3 ds dt">
+                  <div class="du">
+                   <div class="dv dw dx dy dz e0">
+                   </div>
+                   <div class="e1 e2 ak e0 e3">
+                   </div>
+                  </div>
+                  <div class="e4 e5">
+                   Atacadão - BR-101, 10 - Colina de Laranjeiras, Serra - ES, 29167-183, Brasil
+                   <div class="e6 cl e7 e8 dc e9">
+                    04:13 pm
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ag">
+                  <div class="du">
+                   <div class="dw dx dy e0">
+                   </div>
+                  </div>
+                  <div class="e4 e5">
+                   Condominio do Conjunto Residencial Jardim Limoeiro
+                   <div class="e6 cl e7 e8 dc e9">
+                    04:29 pm
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="ai ea ag as eb dk ec ed">
+               <div class="ee an">
+                <div class="ag as ai ef">
+                 <div class="d7 bt">
+                  Rate
+                 </div>
+                 <div>
+                  <div class="ag">
+                   <div class="ag ai as" data-identity="rating-star-1">
+                    <svg class="dm fo dn ba g6" height="24" viewbox="0 0 24 24" width="24">
+                     <rect fill-opacity="0" height="24" width="24">
+                     </rect>
+                     <path d="M22 9H14.3L12.1 2L9.5 9H2L7.8 13.6L5 21L12 17L18 21L15.8 14L22 9Z">
+                     </path>
+                    </svg>
+                   </div>
+                   <div class="ag ai as" data-identity="rating-star-2">
+                    <svg class="dm fo dn ba g6" height="24" viewbox="0 0 24 24" width="24">
+                     <rect fill-opacity="0" height="24" width="24">
+                     </rect>
+                     <path d="M22 9H14.3L12.1 2L9.5 9H2L7.8 13.6L5 21L12 17L18 21L15.8 14L22 9Z">
+                     </path>
+                    </svg>
+                   </div>
+                   <div class="ag ai as" data-identity="rating-star-3">
+                    <svg class="dm fo dn ba g6" height="24" viewbox="0 0 24 24" width="24">
+                     <rect fill-opacity="0" height="24" width="24">
+                     </rect>
+                     <path d="M22 9H14.3L12.1 2L9.5 9H2L7.8 13.6L5 21L12 17L18 21L15.8 14L22 9Z">
+                     </path>
+                    </svg>
+                   </div>
+                   <div class="ag ai as" data-identity="rating-star-4">
+                    <svg class="dm fo dn ba g6" height="24" viewbox="0 0 24 24" width="24">
+                     <rect fill-opacity="0" height="24" width="24">
+                     </rect>
+                     <path d="M22 9H14.3L12.1 2L9.5 9H2L7.8 13.6L5 21L12 17L18 21L15.8 14L22 9Z">
+                     </path>
+                    </svg>
+                   </div>
+                   <div class="ag ai as" data-identity="rating-star-5">
+                    <svg class="dm fo dn ba g6" height="24" viewbox="0 0 24 24" width="24">
+                     <rect fill-opacity="0" height="24" width="24">
+                     </rect>
+                     <path d="M22 9H14.3L12.1 2L9.5 9H2L7.8 13.6L5 21L12 17L18 21L15.8 14L22 9Z">
+                     </path>
+                    </svg>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="ee bt">
+                <div>
+                 <div class="ag be b4 cl eg eh bz by" data-identity="get-invoice-button">
+                  Salvar fatura
+                  <div class="ei ej ag ai">
+                   <svg fill="none" height="16" viewbox="0 0 16 16" width="16">
+                    <rect fill="white" height="16" transform="translate(0 16) rotate(-90)" width="16">
+                    </rect>
+                    <path clip-rule="evenodd" d="M14 7.26563L8 11.666L2 7.26562L2 4.78613L7 8.45215L7 1.09277H9L9 8.45215L14 4.78613L14 7.26563Z" fill="#1E54B7" fill-rule="evenodd">
+                    </path>
+                    <rect fill="#1E54B7" height="2" width="12" x="2" y="13">
+                    </rect>
+                   </svg>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="ee">
+                <a class="c5 el c7 em c4 d0 ai en eh eo ep eq er b6 es et eu ev ew bz ex ey ez dd f0 c6 f1 f2 f3 f4 f5 f6 f7 f8 f9 fa" data-baseweb="button" data-buttonkey="774a8047-67f2-4d5e-80c6-6eb5e334e016" data-identity="trip-details-link" href="/trips/774a8047-67f2-4d5e-80c6-6eb5e334e016">
+                 Informações
+                 <div class="ag fb">
+                  <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                   <title>
+                    Arrow right
+                   </title>
+                   <path d="M22.2 12l-6.5 9h-3.5l5.5-7.5H2v-3h15.7L12.2 3h3.5l6.5 9z" fill="currentColor">
+                   </path>
+                  </svg>
+                 </div>
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="c8dfd426-caae-470d-bcaa-f332db1f86f2" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                23 July 2021, 8:45am
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 8,90
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="9c2c0337-0833-4d9b-8c2b-2f614f1de797" data-trip-status="CANCELED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                23 July 2021, 8:44am
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 0,00
+                <span class="fe ei">
+                 Cancelada
+                </span>
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="6c3855eb-f5f2-41c0-9156-d187f793fa3a" data-trip-status="CANCELED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                23 July 2021, 8:43am
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 0,00
+                <span class="fe ei">
+                 Cancelada
+                </span>
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="03934c87-dc97-49a7-8fb8-4662eba77b83" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                22 July 2021, 4:11pm
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 8,98
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="575164e3-2d89-48a3-9741-7b492b6e46d0" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                22 July 2021, 8:48am
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 8,90
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="1f56bbd8-0a8c-4e4a-a3c8-aa8200c08807" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                21 July 2021, 4:34pm
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 8,98
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="cdbec3a0-b429-489b-8f6a-5fe87c688f53" data-trip-status="CANCELED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                21 July 2021, 4:17pm
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 3,50
+                <span class="fe ei">
+                 Cancelada
+                </span>
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="59fc95e9-40a9-4858-bf15-fe3890a02d94" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                21 July 2021, 8:46am
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 8,95
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fc b9 d3 d4 fd" data-identity="trip-container" data-trip-expanded="false" data-trip-id="db7e9bc5-d247-472f-a624-6024bf86acf8" data-trip-status="COMPLETED">
+             <div class="ag as bz cz">
+              <div class="d6 d7 d8 d9">
+               <svg fill="none" height="1em" viewbox="0 0 24 24" width="1em">
+                <title>
+                 Plus
+                </title>
+                <path d="M23 10.5h-9.5V1h-3v9.5H1v3h9.5V23h3v-9.5H23v-3z" fill="currentColor">
+                </path>
+               </svg>
+              </div>
+              <div class="an">
+               <div>
+                20 July 2021, 4:13pm
+               </div>
+               <div class="be c7 cl b7 da db dc bn dd">
+                R$ 9,93
+               </div>
+              </div>
+              <div class="dj dk">
+               <div>
+                Vitoria
+               </div>
+               <div class="dl">
+                <div>
+                 <svg class="dm dn do" height="32" viewbox="0 0 32 32" width="32">
+                  <g fill="none" fill-rule="evenodd">
+                   <path d="M30 27H2a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h28a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2" fill="#3F3F4E">
+                   </path>
+                   <path d="M18 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#EC001A">
+                   </path>
+                   <path d="M28 16a7 7 0 1 1-14 0 7 7 0 0 1 14 0" fill="#F89E1C">
+                   </path>
+                   <path d="M14 16c0 1.906.764 3.632 2 4.894A6.972 6.972 0 0 0 18 16a6.972 6.972 0 0 0-2-4.894A6.972 6.972 0 0 0 14 16" fill="#FF5F00">
+                   </path>
+                  </g>
+                 </svg>
+                 <span class="b9 c5 dp">
+                  •••• 3470
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="ag as ai ff fg fh fi fj fk">
+            <div class="fl fi ag as ai en fm fn" data-identity="pagination-prev" disabled="">
+             <svg class="fo" fill="none" height="14" viewbox="0 0 8 14" width="8" xmlns="http://www.w3.org/2000/svg">
+              <path d="M6.64347 0.0954113L7.91233 1.47633C8.02922 1.60354 8.02922 1.80942 7.91233 1.93663L3.25983 7L7.91233 12.0634C8.02922 12.1906 8.02922 12.3965 7.91233 12.5237L6.64347 13.9046C6.52658 14.0318 6.3374 14.0318 6.22051 13.9046L1.35653 8.61107L0.0876679 7.23015C-0.0292226 7.10294 -0.0292226 6.89706 0.0876679 6.76985L1.35653 5.38893L6.22051 0.0954113C6.3374 -0.0318022 6.52658 -0.0318022 6.64347 0.0954113Z" xmlns="http://www.w3.org/2000/svg">
+              </path>
+             </svg>
+            </div>
+            <div class="fl fi ag as ai en fp bz" data-identity="pagination-next">
+             <svg class="fq fr" fill="none" height="14" viewbox="0 0 8 14" width="8" xmlns="http://www.w3.org/2000/svg">
+              <path d="M6.64347 0.0954113L7.91233 1.47633C8.02922 1.60354 8.02922 1.80942 7.91233 1.93663L3.25983 7L7.91233 12.0634C8.02922 12.1906 8.02922 12.3965 7.91233 12.5237L6.64347 13.9046C6.52658 14.0318 6.3374 14.0318 6.22051 13.9046L1.35653 8.61107L0.0876679 7.23015C-0.0292226 7.10294 -0.0292226 6.89706 0.0876679 6.76985L1.35653 5.38893L6.22051 0.0954113C6.3374 -0.0318022 6.52658 -0.0318022 6.64347 0.0954113Z" xmlns="http://www.w3.org/2000/svg">
+              </path>
+             </svg>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="at bt">
+         <div class="ag ah fs">
+          <svg fill="none" height="113" width="216" xmlns="http://www.w3.org/2000/svg">
+           <path d="M0 0h216v113H0z" fill="none">
+           </path>
+           <path d="M0 0h216v113H0z" fill="none">
+           </path>
+           <path d="M0 0h216v113H0z" fill="none">
+           </path>
+           <path d="M103.049 14.63L93.48 5.059A17.258 17.258 0 0 0 81.28 0H26.543a26.323 26.323 0 0 0-18.62 7.717A26.357 26.357 0 0 0 .21 26.348v71.406H216V36.963c0-4.581-1.819-8.975-5.056-12.215a17.26 17.26 0 0 0-12.207-5.06h-83.482c-4.578.001-8.969-1.818-12.206-5.057z" fill="#D6D6D6">
+           </path>
+           <path d="M25.24 32.098c3.403 0 6.161-2.76 6.161-6.165a6.163 6.163 0 0 0-6.16-6.164 6.163 6.163 0 0 0-6.162 6.164 6.163 6.163 0 0 0 6.161 6.165z" fill="#D6D6D6">
+           </path>
+           <path d="M25.24 30.183a4.249 4.249 0 0 0 4.248-4.25 4.249 4.249 0 0 0-4.248-4.25 4.249 4.249 0 0 0-4.247 4.25 4.249 4.249 0 0 0 4.247 4.25z" fill="#F5F5F5">
+           </path>
+           <path d="M78.772 27.326h-18.15v63.14h18.15v-63.14z" fill="#fff">
+           </path>
+           <path d="M65.498 29.238v50.344M67.598 29.238v50.344M63.397 29.238v50.344M69.698 29.238v50.344M71.797 29.238v50.344M73.897 29.238v50.344M75.998 29.238v50.344" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M83.876 29.238v47.81M85.976 29.238v47.81M81.775 29.238v47.81M88.075 29.238v47.81" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M78.772 21.945H64.857v6.521h13.915v-6.52zM91.112 49.818h12.075c1.611 0 3.156.64 4.295 1.78a6.08 6.08 0 0 1 1.779 4.299v34.571h-18.15v-40.65z" fill="#fff">
+           </path>
+           <path d="M37.86 67.666h-.766a2.634 2.634 0 0 1-2.634-2.634h-6.048v2.635h9.448z" fill="#5879DA">
+           </path>
+           <path d="M28.405 68.8h9.457v-1.135h-9.457v1.136z" fill="#5879DA">
+           </path>
+           <path d="M54.51 49.818H37.86v48.283h16.65V49.818z" fill="#fff">
+           </path>
+           <path d="M78.772 90.468V72.123l-18.15-18.161v36.506h18.15z" fill="#D6D6D6">
+           </path>
+           <path d="M63.397 29.237h12.6v47.81h-12.6z" fill="none">
+           </path>
+           <path d="M65.498 29.237v47.81M67.598 29.237v47.81M63.397 29.237v47.81M69.698 29.237v47.81M71.797 29.237v47.81M73.897 29.237v47.81M75.998 29.237v47.81" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M78.772 79.584h-24.26v18.52h24.26v-18.52zM101.245 79.584H91.112v18.275h10.133V79.584z" fill="#fff">
+           </path>
+           <path d="M119.501 79.584h-18.256v10.885h18.256V79.584z" fill="#D6D6D6">
+           </path>
+           <path d="M101.245 79.582H91.112l5.067-5.07 5.066 5.07z" fill="#B1E7D6">
+           </path>
+           <path d="M114.435 74.513H96.179l5.066 5.069h18.256l-5.066-5.07z" fill="#5879DA">
+           </path>
+           <path d="M67.614 23.575v3.75M69.715 23.575v3.75M71.815 23.575v3.75M73.915 23.575v3.75M76.014 23.575v3.75" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M64.857 21.944l4.516-4.518h9.4v4.518H64.856z" fill="#B1E7D6">
+           </path>
+           <path d="M87.436 21.944l-4.515-4.518h-4.149v4.518h8.664z" fill="#5879DA">
+           </path>
+           <path d="M78.772 15.994h-9.4v1.43h9.4v-1.43z" fill="#fff">
+           </path>
+           <path d="M82.92 15.994h-4.148v1.43h4.149v-1.43z" fill="#D6D6D6">
+           </path>
+           <path d="M41.72 86.14v-3.08c0-1.22-.878-2.34-2.092-2.453a2.337 2.337 0 0 0-2.572 2.322v3.262a4.689 4.689 0 0 1-.888 2.625 3.855 3.855 0 0 0-.606 2.849 3.889 3.889 0 0 0 4.17 3.186 3.886 3.886 0 0 0 3.541-3.876 3.82 3.82 0 0 0-.655-2.135 4.873 4.873 0 0 1-.899-2.7z" fill="#B1E7D6">
+           </path>
+           <path d="M39.446 97.857v-17.25" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M43.271 90.975c0-.761-.228-1.505-.653-2.136a4.87 4.87 0 0 1-.899-2.7v-3.08c0-1.22-.877-2.34-2.091-2.453v14.235a3.874 3.874 0 0 0 3.643-3.866z" fill="#5879DA">
+           </path>
+           <path d="M53.196 86.14v-3.08c0-1.22-.878-2.34-2.092-2.453a2.338 2.338 0 0 0-2.571 2.322v3.262a4.689 4.689 0 0 1-.88 2.625 3.847 3.847 0 0 0-.605 2.849 3.889 3.889 0 0 0 4.17 3.186 3.885 3.885 0 0 0 3.54-3.876 3.82 3.82 0 0 0-.65-2.135 4.872 4.872 0 0 1-.912-2.7z" fill="#B1E7D6">
+           </path>
+           <path d="M50.924 97.857v-17.25" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M54.75 90.975c0-.761-.226-1.505-.65-2.136a4.87 4.87 0 0 1-.899-2.7v-3.08c0-1.22-.877-2.34-2.091-2.453v14.235a3.874 3.874 0 0 0 3.64-3.866z" fill="#5879DA">
+           </path>
+           <path d="M133.157 28.33v69.528h-13.656V43.762a4.269 4.269 0 0 1 1.258-3.019l12.398-12.414z" fill="#fff">
+           </path>
+           <path d="M121.561 44.175h11.595M121.561 46.363h11.595M121.561 48.553h11.595M121.561 50.742h11.595M121.561 52.932h11.595M121.561 55.12h11.595M121.561 57.31h11.595M121.561 59.499h11.595M121.561 61.69h11.595M121.561 63.879h11.595" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M133.157 44.175h10.857M133.157 46.363h10.857M133.157 48.553h10.857M133.157 50.742h10.857M133.157 52.932h10.857M133.157 55.12h10.857M133.157 57.31h10.857M133.157 59.499h10.857M133.157 61.69h10.857M133.157 63.879h10.857" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M28.403 68.8H.21v21.667h28.193V68.801z" fill="#fff">
+           </path>
+           <path d="M28.403 69.936H.21" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M153.719 65.531h-15.134v24.936h15.134V65.531z" fill="#fff">
+           </path>
+           <path d="M151.191 69.287a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.743.743 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM147.832 69.287a.74.74 0 0 1 .739.74v2.98h-1.474v-2.98a.739.739 0 0 1 .735-.74zM144.473 69.287a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.743.743 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM141.115 69.287a.733.733 0 0 1 .523.217.731.731 0 0 1 .217.523v2.98h-1.479v-2.98a.731.731 0 0 1 .457-.683.732.732 0 0 1 .282-.057zM151.191 75.514a.74.74 0 0 1 .739.74v2.979h-1.478v-2.98a.742.742 0 0 1 .739-.74zM147.832 75.514a.74.74 0 0 1 .739.74v2.979h-1.474v-2.98a.738.738 0 0 1 .739-.74h-.004zM144.473 75.514a.736.736 0 0 1 .739.74v2.979h-1.478v-2.98a.742.742 0 0 1 .739-.74zM141.115 75.514a.74.74 0 0 1 .74.74v2.979h-1.479v-2.98a.739.739 0 0 1 .739-.74z" fill="#D6D6D6">
+           </path>
+           <path d="M153.719 97.75V80.672l-15.134-15.142V97.75h15.134z" fill="#D6D6D6">
+           </path>
+           <path d="M140.377 69.287h11.554v9.945h-11.554z" fill="none">
+           </path>
+           <path d="M151.191 69.287a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.743.743 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM147.832 69.287a.74.74 0 0 1 .739.74v2.98h-1.474v-2.98a.739.739 0 0 1 .735-.74zM144.473 69.287a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.743.743 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM141.116 69.288a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.742.742 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM151.191 75.513a.74.74 0 0 1 .739.74v2.979h-1.478v-2.98a.739.739 0 0 1 .739-.74zM147.832 75.513a.74.74 0 0 1 .739.74v2.979h-1.474v-2.98a.738.738 0 0 1 .739-.74h-.004zM144.473 75.513a.74.74 0 0 1 .739.74v2.979h-1.478v-2.98a.742.742 0 0 1 .739-.74zM141.116 75.513a.736.736 0 0 1 .739.74v2.979h-1.478v-2.98a.738.738 0 0 1 .739-.74zM156.699 69.287a.74.74 0 0 1 .739.74v2.98h-1.478v-2.98a.743.743 0 0 1 .456-.684.74.74 0 0 1 .283-.056zM156.699 75.514a.74.74 0 0 1 .739.74v2.979h-1.478v-2.98a.739.739 0 0 1 .739-.74z" fill="#5879DA">
+           </path>
+           <path d="M62.827 90.467V84.57a1.463 1.463 0 0 1 1.462-1.463 1.461 1.461 0 0 1 1.462 1.463v5.892M68.07 90.467V84.57a1.464 1.464 0 0 1 1.461-1.463 1.461 1.461 0 0 1 1.462 1.463v5.892M73.31 90.467V84.57a1.463 1.463 0 0 1 1.463-1.463 1.461 1.461 0 0 1 1.46 1.463v5.892" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M24.501 72.556a.738.738 0 0 1 .74.74v2.979h-1.479v-2.98a.74.74 0 0 1 .74-.74zM21.142 72.556a.739.739 0 0 1 .74.74v2.979h-1.479v-2.98a.74.74 0 0 1 .739-.74zM17.785 72.556a.739.739 0 0 1 .739.74v2.979h-1.479v-2.98a.74.74 0 0 1 .74-.74zM14.425 72.556a.739.739 0 0 1 .74.74v2.979h-1.478v-2.98a.74.74 0 0 1 .739-.74zM24.501 78.782a.74.74 0 0 1 .74.74v2.98h-1.479v-2.98a.74.74 0 0 1 .74-.74zM21.142 78.782a.739.739 0 0 1 .74.74v2.98h-1.479v-2.98a.74.74 0 0 1 .739-.74zM17.785 78.782a.739.739 0 0 1 .739.74v2.98h-1.479v-2.98a.74.74 0 0 1 .74-.74zM14.425 78.782a.739.739 0 0 1 .74.74v2.98h-1.478v-2.98a.74.74 0 0 1 .739-.74z" fill="#D6D6D6">
+           </path>
+           <path d="M34.801 72.556a.739.739 0 0 1 .74.74v2.979h-1.479v-2.98a.74.74 0 0 1 .74-.74zM31.442 72.556a.738.738 0 0 1 .74.74v2.979h-1.479v-2.98a.74.74 0 0 1 .74-.74z" fill="#5879DA">
+           </path>
+           <path d="M11.066 72.556a.738.738 0 0 1 .74.74v2.979h-1.479v-2.98a.74.74 0 0 1 .74-.74zM7.709 72.556a.74.74 0 0 1 .743.74v2.979H6.97v-2.98a.74.74 0 0 1 .739-.74zM4.35 72.556a.739.739 0 0 1 .739.74v2.979H3.611v-2.98a.74.74 0 0 1 .739-.74zM11.066 78.782a.74.74 0 0 1 .74.74v2.98h-1.479v-2.98a.74.74 0 0 1 .74-.74zM7.709 78.782a.74.74 0 0 1 .743.74v2.98H6.97v-2.98a.74.74 0 0 1 .739-.74zM4.35 78.782a.739.739 0 0 1 .739.74v2.98H3.611v-2.98a.74.74 0 0 1 .739-.74z" fill="#D6D6D6">
+           </path>
+           <path d="M94.735 53.985v3.342M96.963 53.985v3.342M99.193 53.985v3.342M101.423 53.985v3.342M103.653 53.985v3.342M105.883 53.985v3.342M94.735 58.71v3.34M96.963 58.71v3.34M99.193 58.71v3.34M101.423 58.71v3.34M103.653 58.71v3.34M105.883 58.71v3.34M94.735 63.435v3.34M96.963 63.435v3.34M99.193 63.435v3.34M101.423 63.435v3.34M103.653 63.435v3.34M105.883 63.435v3.34M94.735 68.16v3.34M96.963 68.16v3.34M99.193 68.16v3.34M101.423 68.16v3.34M103.653 68.16v3.34M105.883 68.16v3.34" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M111.484 53.985v3.342M113.712 53.985v3.342M111.484 58.71v3.34M113.712 58.71v3.34M111.484 63.435v3.34M113.712 63.435v3.34M111.484 68.16v3.34M113.712 68.16v3.34" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M39.964 53.962h11.604M39.964 55.309h11.604M39.964 58.005h11.604M39.964 60.7h11.604M39.964 63.392h11.604M39.964 66.088h11.604M39.964 68.782h11.604M39.964 56.658h11.604M39.964 59.35h11.604M39.964 62.047h11.604M39.964 64.741h11.604M39.964 67.436h11.604M39.964 70.13h11.604" stroke="#D6D6D6" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M.21 67.666h.767a2.634 2.634 0 0 0 2.634-2.634h24.801v2.635H.21z" fill="#B1E7D6">
+           </path>
+           <path d="M28.403 67.665H.21V68.8h28.193v-1.135z" fill="#B1E7D6">
+           </path>
+           <path d="M39.808 46.934h5.963v2.879h-7.913v-.938a1.95 1.95 0 0 1 1.95-1.941zM169.706 55.12h-8.508v35.347h8.508V55.12z" fill="#fff">
+           </path>
+           <path d="M169.706 50.742h-6.048v6.584h6.048v-6.584z" fill="#fff">
+           </path>
+           <path d="M169.706 44.688l-6.048 6.054h6.048v-6.053z" fill="#B1E7D6">
+           </path>
+           <path d="M169.706 57.325h6.048v-6.584h-6.048v6.584z" fill="#D6D6D6">
+           </path>
+           <path d="M169.706 44.688l6.047 6.054h-6.047v-6.053z" fill="#5879DA">
+           </path>
+           <path d="M166.415 54.338a1.406 1.406 0 1 0 0-2.813 1.406 1.406 0 0 0 0 2.813z" fill="#D6D6D6">
+           </path>
+           <path d="M172.731 54.338a1.407 1.407 0 1 0-.002-2.814 1.407 1.407 0 0 0 .002 2.814z" fill="#5879DA">
+           </path>
+           <path d="M170.084 41.63h1.62" stroke="#fff" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M169.886 45.962v-4.51" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M164.779 62.48h-2.239v-4.51a1.127 1.127 0 0 1 .328-.793 1.127 1.127 0 0 1 .792-.328 1.12 1.12 0 0 1 1.119 1.12v4.512zM167.893 62.48h-2.239v-4.51a1.127 1.127 0 0 1 .69-1.036 1.12 1.12 0 0 1 1.549 1.036v4.51z" fill="#D6D6D6">
+           </path>
+           <path d="M173.133 62.48h-2.238v-4.51a1.12 1.12 0 1 1 2.238 0v4.51zM176.246 62.48h-2.239v-4.51c0-.148.029-.293.086-.43a1.114 1.114 0 0 1 1.035-.691 1.122 1.122 0 0 1 1.118 1.12v4.512z" fill="#5879DA">
+           </path>
+           <path d="M197.388 74.417h-23.381V98.1h23.381V74.417z" fill="#fff">
+           </path>
+           <path d="M197.536 97.96l-23.529-23.543V97.96h23.529z" fill="#D6D6D6">
+           </path>
+           <path d="M187.352 62.482h4.58c3.1 0 5.614 2.52 5.456 5.618v6.318h-10.036V62.482zM162.267 83.452h-4.358a1.95 1.95 0 0 0-1.949 1.95h8.256a1.953 1.953 0 0 0-1.949-1.95z" fill="#fff">
+           </path>
+           <path d="M162.267 83.452a1.956 1.956 0 0 0-1.952 1.95h3.901a1.953 1.953 0 0 0-1.949-1.95z" fill="#5879DA">
+           </path>
+           <path d="M160.695 85.403v5.066M163.838 85.403v5.066" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M208.271 86.125v-3.073c0-1.219-.876-2.327-2.086-2.448a2.326 2.326 0 0 0-2.566 2.314v3.255a4.678 4.678 0 0 1-.885 2.62 3.84 3.84 0 0 0-.606 2.842 3.883 3.883 0 0 0 4.16 3.177 3.88 3.88 0 0 0 3.533-3.864 3.818 3.818 0 0 0-.647-2.131 4.859 4.859 0 0 1-.903-2.692z" fill="#B1E7D6">
+           </path>
+           <path d="M206.005 97.814v-17.21" stroke="#5879DA" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+           <path d="M209.821 90.948a3.817 3.817 0 0 0-.647-2.132 4.863 4.863 0 0 1-.899-2.7V83.05c0-1.218-.876-2.326-2.086-2.448v14.204a3.87 3.87 0 0 0 3.632-3.858z" fill="#5879DA">
+           </path>
+           <path d="M216 97.93H.21V113H216V97.93z" fill="#B1E7D6">
+           </path>
+           <path d="M19.736 83.106a6.962 6.962 0 0 0 4.92 2.039h2.686a6.952 6.952 0 0 1 4.92 2.038l10.912 10.919H0V81.065h14.816a6.953 6.953 0 0 1 4.92 2.04z" fill="#B1E7D6">
+           </path>
+           <path d="M159.99 97.75a6.967 6.967 0 0 0 6.965-6.97 6.967 6.967 0 0 0-6.965-6.969 6.967 6.967 0 0 0-6.965 6.97 6.967 6.967 0 0 0 6.965 6.969z" fill="#000">
+           </path>
+           <path d="M143.871 75.358l-.887-.48a50.619 50.619 0 0 0-24.132-6.118 50.614 50.614 0 0 0-21.556 4.819l-5.113 2.405a19.4 19.4 0 0 1-8.262 1.847h-2.926a1.798 1.798 0 0 0-1.798 1.799v2.94a2.7 2.7 0 0 1-.793 1.902 3.665 3.665 0 0 0-1.08 2.591v2.062c0 1.358.54 2.66 1.499 3.62l.233.234a7.451 7.451 0 0 0 5.282 2.183h82.261a6.778 6.778 0 0 0 4.794-1.98l1.037-1.036a3.225 3.225 0 0 0 .948-2.292v-2.206a6.34 6.34 0 0 0-5.242-6.244l-13.846-2.42a34.194 34.194 0 0 1-10.419-3.626z" fill="#5879DA">
+           </path>
+           <path d="M118.853 68.755H98.339v8.009h20.514v-8.01z" fill="#5879DA">
+           </path>
+           <path d="M142.851 77.826a.528.528 0 0 0 .484-.745.535.535 0 0 0-.236-.252l-.02-.01-.886-.481a48.96 48.96 0 0 0-44.19-1.26l-.317.148c-1.32.619-.88 2.6.579 2.6h44.586z" fill="#fff">
+           </path>
+           <path d="M118.853 70.416H99.626v3.934h19.227v-3.934z" fill="#fff">
+           </path>
+           <path d="M143.644 84.387h37.94v12.175h-37.94z" fill="none">
+           </path>
+           <path d="M174.025 92.299h-30.381v4.263h30.381v-4.263zM173 84.5h-21V88h21v-3.5z" fill="#000">
+           </path>
+           <path d="M173.574 91H152v1.742h21.574V91z" fill="#000">
+           </path>
+           <path d="M169.75 87.874h3.448l.058-3.483h-.283c-.737 0-1.444.293-1.966.815l-1.67 1.671a.585.585 0 0 0 .413.997zM166.454 91.106h-5.461a.333.333 0 0 0-.333.332v1.515c0 .184.149.333.333.333h5.461a.333.333 0 0 0 .333-.333v-1.515a.333.333 0 0 0-.333-.332z" fill="#fff">
+           </path>
+           <path d="M123.36 75.358l-.887-.48a50.63 50.63 0 0 0-24.132-6.118 50.616 50.616 0 0 0-21.556 4.815l-5.112 2.406a19.4 19.4 0 0 1-8.263 1.846h-2.93a1.798 1.798 0 0 0-1.798 1.8v2.94a2.7 2.7 0 0 1-.779 1.905 3.666 3.666 0 0 0-1.078 2.591v2.062a5.121 5.121 0 0 0 1.5 3.62l.233.234a7.445 7.445 0 0 0 5.267 2.183h82.261a6.775 6.775 0 0 0 4.792-1.98l1.038-1.036a3.24 3.24 0 0 0 .948-2.292v-2.206a6.342 6.342 0 0 0-5.244-6.244l-13.847-2.42a34.19 34.19 0 0 1-10.413-3.626z" fill="#5879DA">
+           </path>
+           <path d="M56.825 79.642H153V98H56.825z" fill="none">
+           </path>
+           <path d="M57 91v3.005h2.112V98H153v-7H57zM63.048 83.014h-6.223v-3.372h3.794a1.033 1.033 0 0 1 .732.302l2.098 2.107a.567.567 0 0 1-.4.963zM63.165 90.782a8.02 8.02 0 0 1 2.347-5.67 8.01 8.01 0 0 1 13.68 5.67" fill="#000">
+           </path>
+           <path d="M71.178 97.75a6.967 6.967 0 0 0 6.965-6.97 6.967 6.967 0 0 0-6.965-6.969 6.967 6.967 0 0 0-6.965 6.97 6.967 6.967 0 0 0 6.965 6.969z" fill="#000">
+           </path>
+           <path d="M71.178 95.481a4.699 4.699 0 0 0 4.697-4.7c0-2.596-2.103-4.7-4.697-4.7a4.699 4.699 0 0 0-4.697 4.7c0 2.596 2.103 4.7 4.697 4.7z" fill="#fff">
+           </path>
+           <path d="M73.462 88.496l-2.284 2.285 2.284 2.285a3.24 3.24 0 0 0 0-4.57z" fill="#D6D6D6">
+           </path>
+           <path d="M68.894 93.067l2.284-2.286-2.284-2.285a3.24 3.24 0 0 0 0 4.57z" fill="#D6D6D6">
+           </path>
+           <path d="M71.178 91.61a.831.831 0 1 0 0-1.661.831.831 0 0 0 0 1.662zM146.377 84.392a1.74 1.74 0 0 0-1.617 1.098 1.739 1.739 0 0 0-.124.676 1.784 1.784 0 0 0 1.799 1.71h9.45a.58.58 0 0 0 .572-.699.585.585 0 0 0-.161-.299l-1.668-1.671a2.78 2.78 0 0 0-1.957-.815h-6.294zM163.734 87.437a1.662 1.662 0 1 0-.002-3.324 1.662 1.662 0 0 0 .002 3.324z" fill="#fff">
+           </path>
+           <path d="M122.338 77.826a.527.527 0 0 0 .505-.401.533.533 0 0 0-.257-.591l-.019-.01-.887-.481a48.96 48.96 0 0 0-44.192-1.26l-.316.148c-1.32.619-.88 2.6.579 2.6l44.587-.005z" fill="#000">
+           </path>
+           <path d="M122.351 78.538l-1.868-1.007-.887-.48a49.434 49.434 0 0 0-4.12-1.99.92.92 0 0 0-1.277.85v2.627h8.152z" fill="#5879DA">
+           </path>
+           <path d="M126.868 90.782a8.02 8.02 0 0 1 8.013-8.018c2.125 0 4.163.844 5.666 2.348a8.02 8.02 0 0 1 2.347 5.67" fill="#000">
+           </path>
+           <path d="M134.881 97.75a6.967 6.967 0 0 0 6.965-6.97 6.967 6.967 0 0 0-6.965-6.969 6.967 6.967 0 0 0-6.965 6.97 6.967 6.967 0 0 0 6.965 6.969z" fill="#000">
+           </path>
+           <path d="M134.881 95.481a4.699 4.699 0 0 0 4.697-4.7c0-2.596-2.103-4.7-4.697-4.7a4.699 4.699 0 0 0-4.697 4.7c0 2.596 2.103 4.7 4.697 4.7z" fill="#fff">
+           </path>
+           <path d="M134.881 87.55v3.239h3.237a3.24 3.24 0 0 0-3.237-3.24zM134.881 94.012v-3.239h-3.237a3.24 3.24 0 0 0 3.237 3.24z" fill="#D6D6D6">
+           </path>
+           <path d="M134.881 91.61a.831.831 0 1 0 0-1.661.831.831 0 0 0 0 1.662z" fill="#fff">
+           </path>
+           <path d="M132.786 77.826h10.07a.53.53 0 0 0 .249-.997l-.02-.01-.887-.481a49.068 49.068 0 0 0-16.299-5.407l6.887 6.895z" fill="#000">
+           </path>
+           <path d="M.21 97.93H216" stroke="#000" stroke-miterlimit="10" stroke-width=".373">
+           </path>
+          </svg>
+          <div class="b9 c7 cl b7 fv">
+           Viagens ao toque de um botão
+          </div>
+          <div class="b9 fw fx fy d3">
+           Solicite a viagem pelo navegador do celular. Você não precisa instalar o app.
+          </div>
+          <a class="b9 c7 cl c1 fz g0 g1 bz b6 g2 g3 g4 g5" href="https://m.uber.com">
+           Solicitar uma viagem
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="SI_0MLsoABojrrXhhr">
+    </div>
+   </div>
+  </div>
+  <script id="__CSRF_TOKEN__" type="application/json">
+   \u00221627162922-iY6_TpGGcQYhQLvFiKKl_H3ayPnnLY022eKfMkT3CnE\u0022
+  </script>
+  <script id="__REDUX_STATE__" type="application/json">
+   {\u0022authorisedApps\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022scopeDetails\u0022:[]},\u0022arrears\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:{}},\u0022cancelInfo\u0022:{\u0022acceptButtonTitle\u0022:\u0022\u0022,\u0022cancelButtonTitle\u0022:\u0022\u0022,\u0022chargeFee\u0022:\u0022\u0022,\u0022error\u0022:false,\u0022loading\u0022:false,\u0022messages\u0022:[],\u0022title\u0022:\u0022\u0022,\u0022uuid\u0022:\u0022\u0022},\u0022cancelTripRequest\u0022:{\u0022reservationUUID\u0022:\u0022\u0022,\u0022error\u0022:false,\u0022loading\u0022:false},\u0022config\u0022:{},\u0022fastRating\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:null},\u0022getReceipt\u0022:{\u0022error\u0022:null},\u0022hcvRouteDetails\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:{}},\u0022hcvRoutes\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:null},\u0022hcvStops\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:null},\u0022pastTrips\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:[],\u0022offset\u0022:0,\u0022limit\u0022:10,\u0022showLoadMore\u0022:true,\u0022paginationIndex\u0022:{}},\u0022paymentMethods\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:{\u0022paymentMethods\u0022:[],\u0022profiles\u0022:[]}},\u0022profiles\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:{\u0022paymentMethods\u0022:[],\u0022profiles\u0022:[]}},\u0022promotions\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:[]},\u0022ratings\u0022:{\u0022loading\u0022:{},\u0022data\u0022:{}},\u0022resendReceipt\u0022:{},\u0022taxProfiles\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022forms\u0022:[]},\u0022trip\u0022:{\u0022data\u0022:{\u0022tripMap\u0022:{},\u0022trip\u0022:{\u0022clientFare\u0022:{},\u0022tripFare\u0022:{}},\u0022driver\u0022:{},\u0022receipt\u0022:{\u0022stats\u0022:{}},\u0022polandTaxiOperatingLicenseInfo\u0022:{}}},\u0022tripReceipt\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:{}},\u0022tripsForClient\u0022:{\u0022data\u0022:{\u0022cities\u0022:[{\u0022id\u0022:933,\u0022name\u0022:\u0022Vitoria\u0022}],\u0022data\u0022:{\u0022offset\u0022:\u00220\u0022,\u0022range\u0022:{\u0022fromTime\u0022:null,\u0022toTime\u0022:null},\u0022limit\u0022:10,\u0022tenancy\u0022:\u0022uber/production\u0022},\u0022drivers\u0022:[{\u0022uuid\u0022:\u0022828a7793-ea2e-46c9-8375-2dfffefba759\u0022,\u0022firstname\u0022:\u0022Dirceu Jose\u0022},{\u0022uuid\u0022:\u002252bad854-8022-44e0-9de5-3756fed3c2bc\u0022,\u0022firstname\u0022:\u0022Renato\u0022},{\u0022uuid\u0022:\u0022bb88b4d7-e34d-4e51-8b26-4a22d0459865\u0022,\u0022firstname\u0022:\u0022Paulo\u0022},{\u0022uuid\u0022:\u0022c6e344f8-22c2-4538-9c1f-f1637f1a1612\u0022,\u0022firstname\u0022:\u0022Bruno Rafael\u0022},{\u0022uuid\u0022:\u00225d81ea81-3987-4911-b629-ae3e4824dd94\u0022,\u0022firstname\u0022:\u0022Willians\u0022},{\u0022uuid\u0022:\u00222efe74e6-4333-4366-baf4-0aba59b5ec31\u0022,\u0022firstname\u0022:\u0022Roberto\u0022},{\u0022uuid\u0022:\u002268934f6a-43a2-4ce1-8cd1-689aed18a252\u0022,\u0022firstname\u0022:\u0022Charles\u0022},{\u0022uuid\u0022:\u00225e029cbb-e56e-4a4e-8b86-d9d182af3ac6\u0022,\u0022firstname\u0022:\u0022Wesley\u0022}],\u0022paymentMethodsWPF\u0022:{\u0022statusCode\u0022:200,\u0022body\u0022:{\u0022inactivePaymentProfiles\u0022:[],\u0022paymentProfiles\u0022:[{\u0022uuid\u0022:\u0022f1f2ef82-0f36-4134-887c-894299db642c\u0022,\u0022accountName\u0022:\u0022stored_value\u0022,\u0022status\u0022:\u0022active\u0022,\u0022tokenType\u0022:\u0022stored_value\u0022,\u0022useCase\u0022:\u0022personal\u0022,\u0022clientUuid\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022createdAt\u0022:\u00222019-05-12T15:36:28.302+00:00\u0022,\u0022updatedAt\u0022:\u00222019-05-12T15:42:57.537+00:00\u0022,\u0022hasBalance\u0022:false,\u0022vendorData\u0022:{},\u0022supportedCapabilities\u0022:[\u0022COLLECTION\u0022],\u0022authenticationType\u0022:\u0022NONE\u0022,\u0022tokenDisplayName\u0022:\u0022stored_value\u0022,\u0022supportedUseCases\u0022:null},{\u0022uuid\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022accountName\u0022:\u00223470\u0022,\u0022billingCountryIso2\u0022:\u0022BR\u0022,\u0022cardBin\u0022:\u0022550209\u0022,\u0022cardExpiration\u0022:\u00222028-11-30T00:00:00+00:00\u0022,\u0022cardExpirationEpoch\u0022:1859155200000,\u0022cardNumber\u0022:\u00223470\u0022,\u0022cardType\u0022:\u0022MasterCard\u0022,\u0022isCommuterBenefitsCard\u0022:false,\u0022status\u0022:\u0022active\u0022,\u0022tokenType\u0022:\u0022braintree\u0022,\u0022useCase\u0022:\u0022personal\u0022,\u0022hasBalance\u0022:false,\u0022comboCardInfo\u0022:{\u0022function\u0022:\u0022CREDIT\u0022},\u0022vendorData\u0022:{},\u0022isExpired\u0022:false,\u0022supportedCapabilities\u0022:[\u0022COLLECTION\u0022],\u0022authenticationType\u0022:\u0022NONE\u0022,\u0022tokenDisplayName\u0022:\u00223470\u0022,\u0022cardCategory\u0022:\u0022CREDIT\u0022,\u0022supportedUseCases\u0022:null,\u0022displayable\u0022:{\u0022displayName\u0022:\u0022\u0022,\u0022iconURL\u0022:\u0022https://tb-static.uber.com/prod/payments-onboarding-presentation/icons/mastercard.png\u0022}},{\u0022uuid\u0022:\u0022a22aa601-8f07-4c74-9ab6-72945e2e28a3\u0022,\u0022accountName\u0022:\u0022Cash\u0022,\u0022cardExpiration\u0022:\u00222029-04-25T00:31:43.984+00:00\u0022,\u0022cardExpirationEpoch\u0022:1871771503984,\u0022cardNumber\u0022:\u0022Cash\u0022,\u0022cardType\u0022:\u0022Cash\u0022,\u0022status\u0022:\u0022active\u0022,\u0022tokenType\u0022:\u0022cash\u0022,\u0022useCase\u0022:\u0022personal\u0022,\u0022hasBalance\u0022:false,\u0022vendorData\u0022:{},\u0022supportedCapabilities\u0022:[\u0022COLLECTION\u0022],\u0022authenticationType\u0022:\u0022NONE\u0022,\u0022tokenDisplayName\u0022:\u0022Cash\u0022,\u0022supportedUseCases\u0022:null,\u0022displayable\u0022:{\u0022displayName\u0022:\u0022...\u0022,\u0022iconURL\u0022:\u0022https://tb-static.uber.com/prod/payments-onboarding-presentation/icons/cash.png\u0022}}],\u0022meta\u0022:{\u0022originTimeMs\u0022:1627162921671}},\u0022headers\u0022:{\u0022content-length\u0022:\u00221760\u0022,\u0022content-type\u0022:\u0022application/json\u0022,\u0022date\u0022:\u0022Sat, 24 Jul 2021 21:42:01 GMT\u0022,\u0022rpc-service\u0022:\u0022edge-gateway, mg-proxy\u0022,\u0022via\u0022:\u00221.1 muttley, 1.1 muttley, 1.1 meshproxy\u0022,\u0022x-uber-app\u0022:\u0022edge-gateway, mg-proxy\u0022,\u0022x-uber-rtapi-duration\u0022:\u0022143\u0022,\u0022x-envoy-upstream-service-time\u0022:\u0022144\u0022,\u0022server\u0022:\u0022envoy\u0022,\u0022connection\u0022:\u0022close\u0022},\u0022request\u0022:{\u0022uri\u0022:{\u0022protocol\u0022:\u0022http:\u0022,\u0022slashes\u0022:true,\u0022auth\u0022:null,\u0022host\u0022:\u0022127.0.0.1:15698\u0022,\u0022port\u0022:\u002215698\u0022,\u0022hostname\u0022:\u0022127.0.0.1\u0022,\u0022hash\u0022:null,\u0022search\u0022:\u0022?enrich=false\u0022,\u0022query\u0022:\u0022enrich=false\u0022,\u0022pathname\u0022:\u0022/payment/v3/payment-profiles\u0022,\u0022path\u0022:\u0022/payment/v3/payment-profiles?enrich=false\u0022,\u0022href\u0022:\u0022http://127.0.0.1:15698/payment/v3/payment-profiles?enrich=false\u0022},\u0022method\u0022:\u0022GET\u0022,\u0022headers\u0022:{\u0022x-uber-uuid\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022x-uber-token\u0022:\u0022b0bd1a51bc6cd351c56aaa72ba3b0b9b\u0022,\u0022x-uber-client-name\u0022:\u0022riders-web\u0022,\u0022uber-trace-id\u0022:\u0022c34b59d821d016a4:4f1f2cbf8c034ee8:62f30b25bc4a6000:0\u0022,\u0022uberctx-x-wonka-auth\u0022:\u0022eyJjdCI6IldPTktBQyIsInZhIjoxNjI3MDA3OTkxLCJ2YiI6MTYyNzI2NzE5MSwiZSI6InJpZGVycy13ZWIiLCJjIjpbIkVWRVJZT05FIiwicmlkZXJzLXdlYiJdLCJkIjoicnRhcGkiLCJzIjoibUZ3RGhPWTdvUHk1NDQ3U0luUFc3aVZEaElxVGtFQ056SHFOQStkS2xxdlgvM245K1NFUURmTkpvZnRFLzZNeEFIREU2V1VKaVY3SzJqTXpyS3gxSFE9PSJ9\u0022,\u0022accept\u0022:\u0022application/json\u0022}}},\u0022paymentProfiles\u0022:[{\u0022uuid\u0022:\u0022f1f2ef82-0f36-4134-887c-894299db69d8\u0022,\u0022randomUuid\u0022:\u0022f1f2ef82-0f36-4134-887c-894299db642c\u0022,\u0022tokenType\u0022:\u0022STORED_VALUE\u0022,\u0022cardType\u0022:null,\u0022name\u0022:\u0022Credits\u0022,\u0022expiry\u0022:\u0022\u0022},{\u0022uuid\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae079d8\u0022,\u0022randomUuid\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022tokenType\u0022:\u0022BRAINTREE\u0022,\u0022cardType\u0022:\u0022MASTERCARD\u0022,\u0022name\u0022:\u0022•••• 3470\u0022,\u0022expiry\u0022:\u002211/2028\u0022},{\u0022uuid\u0022:\u0022a22aa601-8f07-4c74-9ab6-72945e2e29d8\u0022,\u0022randomUuid\u0022:\u0022a22aa601-8f07-4c74-9ab6-72945e2e28a3\u0022,\u0022tokenType\u0022:\u0022CASH\u0022,\u0022cardType\u0022:null,\u0022name\u0022:\u0022Cash\u0022,\u0022expiry\u0022:\u0022\u0022}],\u0022scheduledTrips\u0022:[],\u0022trips\u0022:{\u0022trips\u0022:[{\u0022uuid\u0022:\u0022774a8047-67f2-4d5e-80c6-6eb5e334e016\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u0022828a7793-ea2e-46c9-8375-2dfffefba759\u0022,\u0022vehicleUUID\u0022:\u0022b678d1f4-43c0-411b-a16c-69eb0227035f\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:10.94,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:true,\u0022begintripFormattedAddress\u0022:\u0022Atacadão - BR-101, 10 - Colina de Laranjeiras, Serra - ES, 29167-183, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Condominio do Conjunto Residencial Jardim Limoeiro\u0022,\u0022requestTime\u0022:\u00222021-07-23T19:13:44.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-23T19:29:08.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u0022c8dfd426-caae-470d-bcaa-f332db1f86f2\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u002252bad854-8022-44e0-9de5-3756fed3c2bc\u0022,\u0022vehicleUUID\u0022:\u00227403c1e5-b706-4e54-b987-759b113794e5\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:8.9,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022R. Gustavo Barroso, 378 - Chácara Parreiral, Serra - ES, 29164-632, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Trabalho\u0022,\u0022requestTime\u0022:\u00222021-07-23T11:45:50.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-23T11:56:16.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u00229c2c0337-0833-4d9b-8c2b-2f614f1de797\u0022,\u0022status\u0022:\u0022CANCELED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:null,\u0022vehicleUUID\u0022:null,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:0,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:null,\u0022dropoffFormattedAddress\u0022:\u0022Trabalho\u0022,\u0022requestTime\u0022:\u00222021-07-23T11:44:59.000Z\u0022,\u0022dropoffTime\u0022:null,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u00226c3855eb-f5f2-41c0-9156-d187f793fa3a\u0022,\u0022status\u0022:\u0022CANCELED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:null,\u0022vehicleUUID\u0022:null,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:0,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:null,\u0022dropoffFormattedAddress\u0022:\u0022Trabalho\u0022,\u0022requestTime\u0022:\u00222021-07-23T11:43:50.000Z\u0022,\u0022dropoffTime\u0022:null,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u002203934c87-dc97-49a7-8fb8-4662eba77b83\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u0022bb88b4d7-e34d-4e51-8b26-4a22d0459865\u0022,\u0022vehicleUUID\u0022:\u0022dfd06f05-8285-464d-b006-7ac0d4ee71f7\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:8.98,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022Rodovia Governador Mario Covas, 4216 – KM267,68 SLC CEP: 29162702 - Planalto de Carapina, Serra - ES, 29162-702, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Condominio do Conjunto Residencial Jardim Limoeiro\u0022,\u0022requestTime\u0022:\u00222021-07-22T19:11:08.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-22T19:22:21.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u0022575164e3-2d89-48a3-9741-7b492b6e46d0\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u0022c6e344f8-22c2-4538-9c1f-f1637f1a1612\u0022,\u0022vehicleUUID\u0022:\u00226c3741ea-786a-45dc-9211-e96999e6dec5\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:8.9,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022R. Gustavo Barroso, 378 - Chácara Parreiral, Serra - ES, 29164-632, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Trabalho\u0022,\u0022requestTime\u0022:\u00222021-07-22T11:48:48.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-22T12:00:36.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u00221f56bbd8-0a8c-4e4a-a3c8-aa8200c08807\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u00225d81ea81-3987-4911-b629-ae3e4824dd94\u0022,\u0022vehicleUUID\u0022:\u002245f71b48-86a6-4192-b157-e7b5590b16e0\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:8.98,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022Unnamed Road - Planalto de Carapina, Serra - ES, 29162-702, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Condominio do Conjunto Residencial Jardim Limoeiro\u0022,\u0022requestTime\u0022:\u00222021-07-21T19:34:55.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-21T19:50:24.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u0022cdbec3a0-b429-489b-8f6a-5fe87c688f53\u0022,\u0022status\u0022:\u0022CANCELED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u00222efe74e6-4333-4366-baf4-0aba59b5ec31\u0022,\u0022vehicleUUID\u0022:\u0022dcb96314-4905-4cff-b9bf-95c62928d165\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:3.5,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022Rod. Br 101 Norte, 4579 - José de Anchieta, Serra - ES, 29177-211, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Condominio do Conjunto Residencial Jardim Limoeiro\u0022,\u0022requestTime\u0022:\u00222021-07-21T19:17:49.000Z\u0022,\u0022dropoffTime\u0022:null,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u002259fc95e9-40a9-4858-bf15-fe3890a02d94\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u002268934f6a-43a2-4ce1-8cd1-689aed18a252\u0022,\u0022vehicleUUID\u0022:\u00227a2b9d98-d9b6-44fc-8a59-14ecda46a59e\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:8.95,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022R. Gustavo Barroso, 378 - Chácara Parreiral, Serra - ES, 29164-632, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022Trabalho\u0022,\u0022requestTime\u0022:\u00222021-07-21T11:46:47.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-21T11:56:37.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022},{\u0022uuid\u0022:\u0022db7e9bc5-d247-472f-a624-6024bf86acf8\u0022,\u0022status\u0022:\u0022COMPLETED\u0022,\u0022clientUUID\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022,\u0022driverUUID\u0022:\u00225e029cbb-e56e-4a4e-8b86-d9d182af3ac6\u0022,\u0022vehicleUUID\u0022:\u00220940840f-fdbe-4084-94e1-00c7e42749d8\u0022,\u0022paymentProfileUUID\u0022:\u0022e74be510-b764-4c23-9ed2-5bc1cae07494\u0022,\u0022cityID\u0022:933,\u0022countryID\u0022:25,\u0022vehicleViewName\u0022:\u0022UberX\u0022,\u0022vehicleViewID\u0022:15153,\u0022clientFare\u0022:9.93,\u0022currencyCode\u0022:\u0022BRL\u0022,\u0022isSurgeTrip\u0022:false,\u0022begintripFormattedAddress\u0022:\u0022Rod. Gov. Mário Covas, 260 - Planalto de Carapina, Serra - ES, 29162-703, Brasil\u0022,\u0022dropoffFormattedAddress\u0022:\u0022R. Gustavo Barroso, 401 - Chácara Parreiral - Serra - ES, 29164-945\u0022,\u0022requestTime\u0022:\u00222021-07-20T19:13:28.000Z\u0022,\u0022dropoffTime\u0022:\u00222021-07-20T19:25:40.000Z\u0022,\u0022marketplace\u0022:\u0022personal_transport\u0022,\u0022requestDevice\u0022:{\u0022device\u0022:\u0022ANDROID\u0022,\u0022appVersion\u0022:\u00224.377.10003\u0022},\u0022tenancy\u0022:\u0022uber/production\u0022}],\u0022count\u0022:100,\u0022pagingResult\u0022:{\u0022hasMore\u0022:true,\u0022nextCursor\u0022:\u002210\u0022}}},\u0022loading\u0022:false,\u0022error\u0022:null},\u0022treatments\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:{}},\u0022unifiedReceipt\u0022:{},\u0022upcomingTrips\u0022:{\u0022loading\u0022:false,\u0022hasError\u0022:false,\u0022data\u0022:null},\u0022user\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022data\u0022:{\u0022name\u0022:\u0022Aquiles Silva Aguiar\u0022,\u0022role\u0022:\u0022CLIENT\u0022,\u0022signupCityId\u0022:933,\u0022pictureUrl\u0022:\u0022https://d1w2poirtb3as9.cloudfront.net/default.jpeg?Expires=1627205965\u0026Signature=NyAgI0IRZLTxabskw8NgitopST5nKyx7rACg4PtYrhF9UGj6JZDMIlASi4midONvlX1Mx4-Nkl6KAwMzI9AhxwIASVH5zsBy~SXjJf9D-6rw9Jo3YYRPQxcGdScWfNZQqywO9f32l6B9VSko7sJWtZaB-RTgvEMH1hQCAyPYoZ3eTLOLj30UumH5noqPz-Kin-ZjQKA6DBcq8teJ3TnPCn4xXHkiIDlpc5eX608hmGSCIvG3GKY4JhX89UNuxlCUuz~tIsPqVY9AAw3s35focLqpJbWUjHCn43hYuQqfF7Ms3Au0uBj-mSk-X2niAziV-5rqOw9uumwMb4JoGfsztg__\u0026Key-Pair-Id=APKAJSDH2OZQQSA64LQQ\u0022,\u0022countryId\u0022:25,\u0022location\u0022:\u002200000\u0022,\u0022mobileCountryCode\u0022:\u0022+55\u0022,\u0022mobile\u0022:\u002227988125213\u0022,\u0022languageId\u0022:132,\u0022inviteCode\u0022:{\u0022promotionCodeId\u0022:518193645,\u0022promotionCodeUuid\u0022:null,\u0022promotionCode\u0022:\u00221h8vid\u0022,\u0022createdAt\u0022:null,\u0022updatedAt\u0022:{\u0022type\u0022:\u0022Buffer\u0022,\u0022data\u0022:[0,0,1,103,116,83,202,236]}},\u0022email\u0022:\u0022aquilesvibe@hotmail.com\u0022,\u0022firstname\u0022:\u0022Aquiles\u0022,\u0022tenancy\u0022:\u0022uber/production\u0022,\u0022alternateEmails\u0022:[],\u0022taxForms\u0022:true},\u0022isRTL\u0022:false,\u0022locale\u0022:\u0022pt-BR\u0022,\u0022uuid\u0022:\u0022a4c7e948-b760-4fab-88dd-8fe25c9859d8\u0022},\u0022userProfile\u0022:{\u0022loading\u0022:false,\u0022error\u0022:null,\u0022countries\u0022:[],\u0022paymentMethods\u0022:[]},\u0022toasts\u0022:{\u0022toasts\u0022:[]}}
+  </script>
+  <script id="__TRANSLATIONS__" type="application/json">
+   {\u0022chunks\u0022:[10002,10004,10003,10005,10001,2,4,3,5,1,10000,10008,0,8],\u0022localeCode\u0022:\u0022pt-BR\u0022,\u0022translations\u0022:{\u0022error-page.not-found.title\u0022:\u0022Não encontrada\u0022,\u0022error-page.not-found.message\u0022:\u0022Não encontramos a página que você solicitou.\u0022,\u0022error-page.error.title\u0022:\u0022Algo deu errado\u0022,\u0022hcv.page.title.past.trips\u0022:\u0022Viagens anteriores\u0022,\u0022hcv.page.title.upcoming.trips\u0022:\u0022Viagens agendadas\u0022,\u0022hcv.no.upcoming.trips\u0022:\u0022Suas viagens agendadas aparecem aqui\u0022,\u0022hcv.no.past.trips\u0022:\u0022Suas viagens anteriores aparecem aqui\u0022,\u0022nav.backto.mytrips\u0022:\u0022Voltar para as viagens\u0022,\u0022nav.mytrips\u0022:\u0022Minhas viagens\u0022,\u0022nav.profile\u0022:\u0022Perfil\u0022,\u0022nav.taxprofile\u0022:\u0022Perfil tributário\u0022,\u0022nav.freerides\u0022:\u0022Viagens com desconto\u0022,\u0022nav.logout\u0022:\u0022Sair\u0022,\u0022nav.mytrips.payments\u0022:\u0022Minhas viagens e pagamentos\u0022,\u0022nav.ride\u0022:\u0022Viaje\u0022,\u0022nav.overview\u0022:\u0022Visão geral\u0022,\u0022nav.how.it.works\u0022:\u0022Como funciona\u0022,\u0022nav.fare.estimator\u0022:\u0022Calculadora de preço\u0022,\u0022nav.safety\u0022:\u0022Segurança\u0022,\u0022nav.cities\u0022:\u0022Cidades\u0022,\u0022nav.airports\u0022:\u0022Aeroportos\u0022,\u0022nav.business\u0022:\u0022Empresas\u0022,\u0022nav.drive\u0022:\u0022Dirija\u0022,\u0022nav.requirements\u0022:\u0022Requisitos\u0022,\u0022nav.driver.app\u0022:\u0022App de parceiro\u0022,\u0022nav.vehicle.solutions\u0022:\u0022Soluções de veículos\u0022,\u0022nav.insurance\u0022:\u0022Seguros\u0022,\u0022nav.driving.city\u0022:\u0022Como dirigir na sua cidade\u0022,\u0022nav.rewards\u0022:\u0022Promoções\u0022,\u0022nav.delivery\u0022:\u0022Entregas\u0022,\u0022nav.more\u0022:\u0022Mais\u0022,\u0022nav.eats\u0022:\u0022Uber Eats\u0022,\u0022nav.uber.business\u0022:\u0022Uber para Empresas\u0022,\u0022nav.uber.freight\u0022:\u0022Uber Freight\u0022,\u0022nav.uber.health\u0022:\u0022Uber Health\u0022,\u0022nav.ride.now\u0022:\u0022Viajar agora\u0022,\u0022nav.drive.uber\u0022:\u0022Dirija com a Uber\u0022,\u0022nav.help.support\u0022:\u0022Ajuda e suporte\u0022,\u0022nav.rider.sign.in\u0022:\u0022Cadastre-se como usuário\u0022,\u0022nav.sign.in\u0022:\u0022Entrar\u0022,\u0022nav.become.driver\u0022:\u0022Seja um motorista parceiro\u0022,\u0022nav.help\u0022:\u0022Ajuda\u0022,\u0022nav.settings\u0022:\u0022Configurações de perfil\u0022,\u0022nav.hey.user\u0022:\u0022Olá, ${user}\u0022,\u0022request-ride.widget.cta.request\u0022:\u0022Solicitar uma viagem\u0022,\u0022arrears.msg\u0022:\u0022Há um valor pendente de ${amount} referente à viagem que você fez neste horário: ${time}\u0022,\u0022arrears.cta.pay\u0022:\u0022Pagar agora\u0022,\u0022arrears.cta.details\u0022:\u0022Informações\u0022,\u0022arrears.error\u0022:\u0022Erro ao pagar os valores pendentes. Tente outra forma de pagamento.\u0022,\u0022arrears.success\u0022:\u0022Valores pendentes pagos\u0022,\u0022arrears.label.payment.methods\u0022:\u0022Opções de pagamento\u0022,\u0022hcv.page.title.buses\u0022:\u0022Ônibus\u0022,\u0022hcv.page.title.select.pickup\u0022:\u0022Selecionar ponto de embarque\u0022,\u0022hcv.page.title.select.dropoff\u0022:\u0022Selecionar destino\u0022,\u0022trips.resend\u0022:\u0022Reenviar\u0022,\u0022trips.view.details\u0022:\u0022Mais informações\u0022,\u0022trips.cancelled.trip\u0022:\u0022Viagem cancelada\u0022,\u0022trips.cancelled\u0022:\u0022Cancelada\u0022,\u0022trips.detail.title.car\u0022:\u0022Sua viagem no ${carType}\u0022,\u0022trips.detail.title.driver\u0022:\u0022com ${driverName}\u0022,\u0022trips.unfulfilled\u0022:\u0022Não concluída\u0022,\u0022trips.save.feedback\u0022:\u0022Salvar feedback\u0022,\u0022trips.leave.comment\u0022:\u0022Deixe um comentário\u0022,\u0022trips.cancel\u0022:\u0022Cancelar\u0022,\u0022trips.optional.comments\u0022:\u0022Comentários opcionais\u0022,\u0022trips.receipt.emailed\u0022:\u0022O recibo foi enviado por e-mail\u0022,\u0022trips.rating.saved\u0022:\u0022Sua avaliação foi salva\u0022,\u0022trips.no.trips.yet\u0022:\u0022Parece que você ainda não viajou com a Uber.\u0022,\u0022trips.take.ur.first.trip\u0022:\u0022Faça a sua primeira viagem.\u0022,\u0022trips.document.title\u0022:\u0022Minhas viagens – Usuários da Uber\u0022,\u0022resend.receipt.label\u0022:\u0022Reenviar recibo\u0022,\u0022resend.receipt.error.message\u0022:\u0022Houve um problema ao enviar seu recibo. Tente de novo mais tarde.\u0022,\u0022resend.receipt.success.message\u0022:\u0022Seu recibo foi enviado.\u0022,\u0022rating.star.error.message\u0022:\u0022Ocorreu um problema ao registrar sua avaliação. Espere um pouco e tente de novo\u0022,\u0022rating.star.success.message\u0022:\u0022Sua avaliação foi salva\u0022,\u0022rating.star.additional.comments\u0022:\u0022Outros comentários\u0022,\u0022rating.star.save.rating\u0022:\u0022Salvar avaliação\u0022,\u0022get-invoice.cta.loading\u0022:\u0022Carregando\u0022,\u0022get-invoice.cta.support\u0022:\u0022Ajuda\u0022,\u0022get-invoice.error.request\u0022:\u0022Ocorreu um problema ao solicitar sua fatura. Tente de novo mais tarde.\u0022,\u0022get-invoice.info.request\u0022:\u0022Esta viagem foi feita com o UberX, nossa opção de baixo custo, para a qual a Uber não fornece faturas de transporte. Elas só estão disponíveis em nossos outros produtos. Se ainda precisar de ajuda com relação às faturas, entre em contato com o suporte. Vamos retornar seu contato o mais rápido possível.\u0022,\u0022get-invoice.error.download\u0022:\u0022Ocorreu um problema ao baixar a fatura. Tente de novo mais tarde.\u0022,\u0022get-invoice.error.unavailable\u0022:\u0022A fatura desta viagem não está disponível.\u0022,\u0022get-invoice.success.request\u0022:\u0022Você vai receber sua fatura por e-mail.\u0022,\u0022get-invoice.cta.request\u0022:\u0022Gerar fatura\u0022,\u0022get-invoice.cta.download\u0022:\u0022Salvar fatura\u0022,\u0022rating.star.heading\u0022:\u0022Avalie sua viagem no ${carType} com ${driverName}\u0022,\u0022request-ride.widget.title\u0022:\u0022Viagens ao toque de um botão\u0022,\u0022request-ride.widget.message\u0022:\u0022Solicite a viagem pelo navegador do celular. Você não precisa instalar o app.\u0022,\u0022reserve.trip.cancel.confirmation.title\u0022:\u0022Confirmação\u0022,\u0022reserve.trip.cancel.notice.over_hour\u0022:\u0022Você não precisará pagar a taxa de cancelamento\u0022,\u0022reserve.trip.cancel.notice.less_than_hour\u0022:\u0022Se você cancelar faltando menos de 1 hora para o horário da reserva, o preço total da viagem será cobrado\u0022,\u0022reserve.trip.confirmation.cancel\u0022:\u0022Não cancelar\u0022,\u0022reserve.trip.confirmation.continue\u0022:\u0022Cancelar reserva\u0022,\u0022trips.filter.heading\u0022:\u0022Filtrar viagens\u0022,\u0022trips.filter.this.month\u0022:\u0022${month} (este mês)\u0022,\u0022trips.filter.last.month\u0022:\u0022${month} (último mês)\u0022,\u0022trips.filter.all\u0022:\u0022Todas as viagens\u0022,\u0022trips.filter.failed\u0022:\u0022Falha ao filtrar as viagens\u0022,\u0022trips.filter.no.trips.found\u0022:\u0022Nenhuma viagem encontrada no período selecionado\u0022,\u0022trips.ride-now.title\u0022:\u0022Parece que você ainda não fez nenhuma viagem.\u0022,\u0022error-page.error.cta.retry\u0022:\u0022Tentar de novo\u0022,\u0022scheduled.trip.cancel.error\u0022:\u0022Falha ao cancelar a viagem. Tente de novo mais tarde.\u0022,\u0022scheduled.trip.cancel.success\u0022:\u0022Cancelamento realizado\u0022,\u0022scheduled.trip.label\u0022:\u0022Agendadas\u0022,\u0022scheduled.trip.cancel.label\u0022:\u0022Cancelar esta viagem\u0022,\u0022scheduled.trip.confirmation.continue\u0022:\u0022Sim\u0022,\u0022scheduled.trip.confirmation.title\u0022:\u0022Quer mesmo cancelar a viagem?\u0022,\u0022shceduled.trip.confirmation.cancel\u0022:\u0022Não\u0022,\u0022hcv.page.title.route.details\u0022:\u0022Informações do trajeto\u0022,\u0022hcv.receipt\u0022:\u0022Recibo\u0022,\u0022hcv.loading.past.trips\u0022:\u0022Carregando viagens anteriores\u0022,\u0022view.receipt.label\u0022:\u0022Ver recibo\u0022,\u0022initializing\u0022:\u0022Iniciando\u0022,\u0022loading\u0022:\u0022Carregando\u0022,\u0022something.went.wrong\u0022:\u0022Ocorreu um erro, tente de novo mais tarde\u0022,\u0022back.to.all.routes\u0022:\u0022Voltar para “Todos os trajetos”\u0022,\u0022hcv.pickup.confirm\u0022:\u0022Selecionar ponto de embarque\u0022,\u0022hcv.noroutes.title\u0022:\u0022Nenhum trajeto encontrado\u0022,\u0022hcv.noroutes.subtitle\u0022:\u0022Infelizmente, não há trajetos de ônibus para os filtros aplicados\u0022,\u0022hcv.noroutes.link\u0022:\u0022Mostrar todos os trajetos\u0022,\u0022hcv.stops.label.pickup\u0022:\u0022Ponto de embarque\u0022,\u0022hcv.stops.label.dropoff\u0022:\u0022Ponto de desembarque\u0022,\u0022hcv.no.driver.assigned\u0022:\u0022Nenhum motorista atribuído\u0022,\u0022hcv.today.time\u0022:\u0022Hoje, ${time}\u0022,\u0022hcv.yesterday.time\u0022:\u0022Ontem, ${time}\u0022,\u0022hcv.date.time\u0022:\u0022${date}, ${time}\u0022,\u0022hcv.booking.cta\u0022:\u0022Selecione um local de partida\u0022,\u0022hcv.filterbar.title.all\u0022:\u0022Mostrando todos os trajetos perto de você\u0022,\u0022hcv.filterbar.title.filtered\u0022:\u0022Mostrando trajetos com\u0022,\u0022hcv.filterbar.tag.pickup.set\u0022:\u0022Embarque – ${name}\u0022,\u0022hcv.filterbar.tag.pickup.unset\u0022:\u0022+ Defina o ponto de embarque\u0022,\u0022hcv.filterbar.tag.dropoff.set\u0022:\u0022Desembarque – ${name}\u0022,\u0022hcv.filterbar.tag.dropoff.unset\u0022:\u0022+ Defina o ponto de desembarque\u0022,\u0022hcv.pickup.title\u0022:\u0022Escolha seu ponto de embarque\u0022,\u0022hcv.dropoff.title\u0022:\u0022Escolha seu ponto de desembarque\u0022,\u0022hcv.pickup.change.cta\u0022:\u0022Alterar\u0022,\u0022hcv.search.title.pickup\u0022:\u0022Selecione um ponto de embarque\u0022,\u0022hcv.search.title.dropoff\u0022:\u0022Selecione um ponto de desembarque\u0022}}
+  </script>
+  <script id="__ROUTER_DATA__" type="application/json">
+   {\u0022page\u0022:\u0022/trips\u0022,\u0022title\u0022:\u0022/trips\u0022,\u0022params\u0022:{}}
+  </script>
+  <iframe height="0" hidden="" src="https://a745050198.cdn.optimizely.com/client_storage/a745050198.html" style="display: none;" tabindex="-1" title="Optimizely Internal Frame" width="0">
+  </iframe>
+  <div class="fm aw cd cc ag ao b2 g7 d7 g8 g9 ga gb" data-baseweb="toaster">
+  </div>
+  <iframe id="_hjRemoteVarsFrame" name="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-dfc01efbdc94bb0936d9a35a502b0b64.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" title="_hjRemoteVarsFrame">
+  </iframe>
+  <script src="https://zn4i1ubygelklybbn-uber.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_0MLsoABojrrXhhr&amp;Q_LOC=https%3A%2F%2Friders.uber.com%2Ftrips%3Fstate%3DkYsJooMYkXBOg7l6HmUeBKeGjMCh0ugaUAjPAAKuO10%253D%26_csid%3D1ifQn4r1QiIkM0anwmzLVQ%23_&amp;t=1627162924048" type="text/javascript">
+  </script>
+ </body>
+</html>
